@@ -12,18 +12,13 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-
-___
-
-## Algumas estatísticas minhas:
-
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duduxs&show_icons=true&theme=radical" alt="Github status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaynabds&show_icons=true&theme=radical" alt="Github status" />
 </a>
 <a href="LINK_DO_SEU_SITE_AQUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duduxs&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabds&layout=compact&theme=radical" />
 </a>
 
 
 ___
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Duduxs" alt="Status" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaynabds" alt="Status" /> </p>
