@@ -24,16 +24,11 @@
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynabds&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabds&layout=compact&theme=radical&hide_progress=false" />
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thaynabds&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/thaynabds)
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=thaynabds&theme=radical" />
-</p>
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabds&layout=compact&theme=radical)](https://github.com/thaynabds)
 
----
+[![Sequência de contribuições](https://streak-stats.demolab.com/?user=thaynabds&theme=radical)](https://github.com/thaynabds)
 
 ---
 
