@@ -1,6 +1,6 @@
 # Oi, meu nome é Thayná Batista da Silva
 ### Sou 🌱estudante de **🎓Análise e Desenvolvimento de Sistemas💻**🤩, moro em Recife-PE, Brasil, e estou a procura de oportunidades de __Estágio/Trabalho__ na área.
-* 🚀 Atualmente estou aprendendo: <strong>Phyton e Front-end</strong> 
+* 🚀 Atualmente estou aprendendo: <strong>Phyton, C# e Front-end</strong> 
 * 📣 Nós podemos falar em: <strong> Português, Inglês e espanhol</strong>
 * ![Gatinho Mechendo no computador](https://www.orkugifs.com/images/gatinho-usando-computador_4114.gif)
 
