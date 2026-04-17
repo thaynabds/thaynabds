@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Sobre mim
-- 📚 Atualmente aprendendo: **Python**, **C#**, **IA**, e **Back-end**.
+- 📚 Atualmente aprendendo: **Python**, **C#**, **IA**, **SQL** e **Back-end**.
 - 🗣️ Idiomas: Português (Nativo), Inglês e Espanhol.
 - 💻 Apaixonada por resolver problemas e criar soluções digitais.
 
