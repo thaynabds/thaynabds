@@ -132,20 +132,6 @@ Protótipo de aplicativo para facilitar o uso de medicações, prevenir erros m�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thaynabds&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/thaynabds)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaynabds&layout=compact&theme=radical&hide_border=true)](https://github.com/thaynabds)
-
-[![Sequência de contribuições](https://streak-stats.demolab.com/?user=thaynabds&theme=radical&hide_border=true)](https://github.com/thaynabds)
-
-</div>
-
----
-
 ## 🎓 Formação & Certificações
 
 | Instituição | Curso | Período |
