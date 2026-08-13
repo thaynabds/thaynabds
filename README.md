@@ -267,6 +267,7 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 |---|---|---|
 | 🏫 Centro Universitário Senac PE | Tecnologia em Análise e Desenvolvimento de Sistemas | Ago/2025 – Dez/2027 |
 | ☕ Fuctura Tecnologia | Academia Java Full-Stack | Mai/2026 – Jan/2027 |
+| 🏫 Centro Universitário Senac PE | Certificação em Programador de Sistemas | 2025 – 2026 |
 | 📋 Senac EAD | Curso de Representante Comercial | Concluído Fev/2024 |
 
 ## 🏆 Cursos e Certificações
