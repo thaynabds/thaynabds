@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Disponível para Estágio — Recife/PE | Seg–Sex | 7h–18h | Início Imediato
+## 🎯 Disponível para Estágio — Recife/PE, Brasil | Seg–Sex | 7h–18h | Início Imediato
 
 Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Senac PE e **Academia Java Full-Stack** na Fuctura Tecnologia. Desenvolvo aplicações web com Java, Spring Boot, Angular e TypeScript. Trabalho com Python, C#, .NET 8 e ASP.NET Core, integro APIs REST e OpenAI, e aplico **IA Generativa e Engenharia de Prompt** em projetos práticos. Atuo também como Product Designer, com experiência em prototipagem de alta fidelidade no Figma, Análise de Requisitos e Scrum — certificada Scrum Master pela DIO. Diferencial: **Azure AI, RAG, NLP, Visão Computacional e automação com n8n**.
 
@@ -132,7 +132,7 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ## 🚀 Projetos em Destaque
 
 ### 🏫 [Observatório de Projetos Integradores — Senac PE](https://grupotp.polyclub.com.br/)
-> **Centro Universitário Senac | Jan–Junho 2026**
+> **Centro Universitário Senac | Recife-PE, Brasil | Jan–Junho 2026**
 
 Plataforma centralizada para gestão de projetos acadêmicos: submissão, prazos, feedbacks por rubricas e portfólio com selos de conquista.
 
@@ -143,7 +143,7 @@ Plataforma centralizada para gestão de projetos acadêmicos: submissão, prazos
 ---
 
 ### ✈️ [Aeroclube Asas Abertas — NTTData × Porto Digital](https://asasabertas-aero-clube.vercel.app/)
-> **Rise UP 2026.1 | NTTData | Mar–Mai 2026**
+> **Rise UP 2026.1 | NTTData | Recife-PE, Brasil | Mar–Mai 2026**
 
 Plataforma web centralizada para o Aeroclube Asas Abertas de Pernambuco. Centraliza cadastro, agendamento de aulas, histórico de voos e controle de documentos — deploy em produção no Vercel.
 
@@ -154,7 +154,7 @@ Plataforma web centralizada para o Aeroclube Asas Abertas de Pernambuco. Central
 ---
 
 ### ✅ [Gerenciador de Tarefas — Avanade Protagonize Tech](https://github.com/thaynabds/DESAFIO-TECNICO-PROTAGONIZE-TECH)
-> **Bootcamp 100h Impacta + Avanade | Abr 2026**
+> **Bootcamp 100h Impacta + Avanade | Brasil | Abr 2026**
 
 Aplicação Full-Stack com CRUD de tarefas, filtro por status, API REST (ASP.NET Core 8) e front-end Angular 17.
 
@@ -165,7 +165,7 @@ Aplicação Full-Stack com CRUD de tarefas, filtro por status, API REST (ASP.NET
 ---
 
 ### 🎙️ [Voice ChatGPT — Conversa por Voz com IA](https://github.com/thaynabds/Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python)
-> **Bootcamp Bradesco GenAI & Dados | DIO | Mai 2026**
+> **Bootcamp Bradesco GenAI & Dados | DIO | Brasil | Mai 2026**
 
 Integra reconhecimento de voz (Whisper), NLP (GPT-3.5 Turbo) e síntese de fala (gTTS) — conversa completa por voz em português.
 
@@ -176,7 +176,7 @@ Integra reconhecimento de voz (Whisper), NLP (GPT-3.5 Turbo) e síntese de fala 
 ---
 
 ### 💰 [FIN — Assistente Financeira com IA Generativa](https://github.com/thaynabds/Construa-seu-Assistente-Virtual-com-Intelig-ncia-Artificial)
-> **Bootcamp Bradesco GenAI & Dados | DIO | Mai 2026**
+> **Bootcamp Bradesco GenAI & Dados | DIO | Brasil | Mai 2026**
 
 Assistente financeiro inteligente com interface web. Simula juros compostos, financiamentos e reserva de emergência com System Prompt estruturado.
 
@@ -187,7 +187,7 @@ Assistente financeiro inteligente com interface web. Simula juros compostos, fin
 ---
 
 ### 🏥 [App MedSmart — Protótipo](https://github.com/thaynabds/AppMedSmart)
-> **Centro Universitário Senac | Ago–Set 2025**
+> **Centro Universitário Senac | Recife-PE, Brasil | Ago–Set 2025**
 
 Protótipo de aplicativo para facilitar uso de medicações, prevenir erros médicos e acompanhamento por familiares e médicos.
 
@@ -198,7 +198,7 @@ Protótipo de aplicativo para facilitar uso de medicações, prevenir erros méd
 ---
 
 ### 🌿 [Protótipo Web Manguecity](https://github.com/thaynabds/AppMangueLimpo/tree/main)
-> **Centro Universitário Senac | Set 2025**
+> **Centro Universitário Senac | Recife-PE, Brasil | Set 2025**
 
 Solução web gamificada para educação sobre o mangue nas escolas, com painéis de aluno, professor e moderação.
 
@@ -209,7 +209,7 @@ Solução web gamificada para educação sobre o mangue nas escolas, com painéi
 ---
 
 ### 🤖 [Chatbot de Cadastro — Typebot](https://lnkd.in/d4CnzBGw)
-> **Ago 2025**
+> **Recife-PE, Brasil | Ago 2025**
 
 Chatbot interativo para cadastro de usuários desenvolvido na plataforma Typebot.
 
@@ -220,7 +220,7 @@ Chatbot interativo para cadastro de usuários desenvolvido na plataforma Typebot
 ---
 
 ### 🔍 Análise de Usabilidade (UX/UI) — App 99Pop
-> **Centro Universitário Senac | Ago 2025**
+> **Centro Universitário Senac | Recife-PE, Brasil | Ago 2025**
 
 Análise colaborativa de layout, tipografia, cores, fluxo de interação, facilidade de uso, feedback do usuário e acessibilidade do app 99Pop.
 
@@ -229,7 +229,7 @@ Análise colaborativa de layout, tipografia, cores, fluxo de interação, facili
 ---
 
 ### 🎓 [Bootcamp DIO Avanade — Back-end .NET & IA 2025](https://github.com/thaynabds/Bootcamp-DIO-Avanade---Back-end-com-.NET-e-IA-2025)
-> **DIO + Avanade | 2025**
+> **DIO + Avanade | Brasil | 2025**
 
 Exercícios, desafios e projetos práticos do Bootcamp DIO Avanade Back-end com .NET e IA.
 
@@ -240,7 +240,7 @@ Exercícios, desafios e projetos práticos do Bootcamp DIO Avanade Back-end com 
 ---
 
 ### 🎮 [Lab Natty or Not](https://github.com/thaynabds/lab-natty-or-not)
-> **DIO | 2025**
+> **DIO | Brasil | 2025**
 
 Projeto gamificado sobre identificação de textos gerados por IA, usando lógica de comparação.
 
@@ -251,7 +251,7 @@ Projeto gamificado sobre identificação de textos gerados por IA, usando lógic
 ---
 
 ### 🎯 [Calculadora de Partidas Rankeadas](https://github.com/thaynabds/CalculadoraDePartidasRankeadas)
-> **2025**
+> **Recife-PE, Brasil | 2025**
 
 Aplicativo com lógica de ranqueamento em JavaScript para classificação de partidas.
 
@@ -263,42 +263,42 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 
 ## 🎓 Formação Acadêmica
 
-| Instituição | Curso | Período |
-|---|---|---|
-| 🏫 Centro Universitário Senac PE | Tecnologia em Análise e Desenvolvimento de Sistemas | Ago/2025 – Dez/2027 |
-| ☕ Fuctura Tecnologia | Academia Java Full-Stack | Mai/2026 – Jan/2027 |
-| 🏫 Centro Universitário Senac PE | Certificação em Programador de Sistemas | 2025 – 2026 |
-| 📋 Senac EAD | Curso de Representante Comercial | Concluído Fev/2024 |
+| Instituição | Curso | Local | Período |
+|---|---|---|---|
+| 🏫 Centro Universitário Senac PE | Tecnologia em Análise e Desenvolvimento de Sistemas | Recife-PE, Brasil | Ago/2025 – Dez/2027 |
+| ☕ Fuctura Tecnologia | Academia Java Full-Stack | Recife-PE, Brasil | Mai/2026 – Jan/2027 |
+| 🏫 Centro Universitário Senac PE | Certificação em Programador de Sistemas | Recife-PE, Brasil | 2025 – 2026 |
+| 📋 Senac EAD | Curso de Representante Comercial | Recife-PE, Brasil | Concluído Fev/2024 |
 
 ## 🏆 Cursos e Certificações
 
-| Certificação | Instituição | Data |
-|---|---|---|
-| AI-102 Azure AI Engineer Associate | DIO | Mai/2026 |
-| ChatGPT for Devs | DIO | Mai/2026 |
-| Bradesco GenAI & Dados | DIO | Mai/2026 |
-| Formação Back-End Avanade Protagonize Tech (100h) | Impacta | Mar/2026 |
-| Scrum Master Certification | DIO | Fev/2026 |
-| GitHub Certification | DIO | Fev/2025 |
-| Fundamentos de Inteligência Artificial | DIO | Fev/2025 |
-| Lógica de Programação | DIO | Fev/2025 |
-| Versionamento de Código com Git e GitHub | DIO | Set/2025 |
-| Introdução às IDEs e Configuração de Ambiente .NET | DIO | Set/2025 |
-| Introdução ao .NET | DIO | Ago/2025 |
-| Introdução ao Back-end com .NET e IA | DIO | Ago/2025 |
-| Lógica de Programação com JavaScript | Alura | Out/2025 |
-| Python Básico | Fundação Bradesco | Out/2025 |
-| Implementando Banco de Dados | Fundação Bradesco | Out/2025 |
-| IA para Estudantes | Fundação Bradesco | Out/2025 |
-| Letramento Digital | Fundação Bradesco | Out/2025 |
-| Pensamento Computacional | Fundação Bradesco | Out/2025 |
+| Certificação | Instituição | Local | Data |
+|---|---|---|---|
+| AI-102 Azure AI Engineer Associate | DIO | Brasil | Mai/2026 |
+| ChatGPT for Devs | DIO | Brasil | Mai/2026 |
+| Bradesco GenAI & Dados | DIO | Brasil | Mai/2026 |
+| Formação Back-End Avanade Protagonize Tech (100h) | Impacta | Brasil | Mar/2026 |
+| Scrum Master Certification | DIO | Brasil | Fev/2026 |
+| GitHub Certification | DIO | Brasil | Fev/2025 |
+| Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2025 |
+| Lógica de Programação | DIO | Brasil | Fev/2025 |
+| Versionamento de Código com Git e GitHub | DIO | Brasil | Set/2025 |
+| Introdução às IDEs e Configuração de Ambiente .NET | DIO | Brasil | Set/2025 |
+| Introdução ao .NET | DIO | Brasil | Ago/2025 |
+| Introdução ao Back-end com .NET e IA | DIO | Brasil | Ago/2025 |
+| Lógica de Programação com JavaScript | Alura | Brasil | Out/2025 |
+| Python Básico | Fundação Bradesco | Brasil | Out/2025 |
+| Implementando Banco de Dados | Fundação Bradesco | Brasil | Out/2025 |
+| IA para Estudantes | Fundação Bradesco | Brasil | Out/2025 |
+| Letramento Digital | Fundação Bradesco | Brasil | Out/2025 |
+| Pensamento Computacional | Fundação Bradesco | Brasil | Out/2025 |
 
 ---
 
 ## 🌱 Voluntariado
 
 **Educação Ambiental — Zoológico Dois Irmãos**
-> Biotopia | Proteção Animal · Ago–Set 2019
+> Biotopia | Proteção Animal | Recife-PE, Brasil · Ago–Set 2019
 
 Projeto Bicho do Mês — conscientização sobre importância dos animais no ecossistema e desmistificação de crendices populares.
 
