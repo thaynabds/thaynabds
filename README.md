@@ -1,9 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:1A237E,100:0D47A1&height=200&section=header&text=Thayná%20Batista%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%7C%20Java%20%7C%20Angular%20%7C%20.NET&descAlignY=58&descSize=16" />
+### 🌐 Selecione o idioma / Select your language
 
-[![Português](https://img.shields.io/badge/🇧🇷_Português-selecionado-6C3483?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/🇺🇸_English-1A237E?style=for-the-badge)](README.en.md)
+<table>
+<tr>
+<td align="center">
+
+[![🇧🇷 PORTUGUÊS](https://img.shields.io/badge/🇧🇷_PORTUGUÊS-VOCÊ_ESTÁ_AQUI-6C3483?style=for-the-badge&labelColor=6C3483)](README.md)
+
+</td>
+<td align="center">
+
+[![🇺🇸 ENGLISH](https://img.shields.io/badge/🇺🇸_ENGLISH-CLICK_HERE-1A237E?style=for-the-badge&labelColor=1A237E)](README.en.md)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:1A237E,100:0D47A1&height=200&section=header&text=Thayná%20Batista%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%7C%20Java%20%7C%20Angular%20%7C%20.NET&descAlignY=58&descSize=16" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-thaynabds-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thaynabds)
 [![GitHub](https://img.shields.io/badge/GitHub-thaynabds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaynabds)
