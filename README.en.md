@@ -247,6 +247,8 @@ Collaborative analysis of the 99Pop app's layout, typography, colors, interactio
 
 `UX/UI` `Requirements Analysis` `Miro`
 
+🔗 [Demo](https://www.linkedin.com/in/thaynabds/details/projects/)
+
 ---
 
 ### 🎓 [DIO Avanade Bootcamp — .NET & AI Back-End 2025](https://github.com/thaynabds/Bootcamp-DIO-Avanade---Back-end-com-.NET-e-IA-2025)
