@@ -247,6 +247,8 @@ Análise colaborativa de layout, tipografia, cores, fluxo de interação, facili
 
 `UX/UI` `Análise de Requisitos` `Miro`
 
+🔗 [Demo](https://www.linkedin.com/in/thaynabds/details/projects/)
+
 ---
 
 ### 🎓 [Bootcamp DIO Avanade — Back-end .NET & IA 2025](https://github.com/thaynabds/Bootcamp-DIO-Avanade---Back-end-com-.NET-e-IA-2025)
