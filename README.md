@@ -109,6 +109,8 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
@@ -151,6 +153,17 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🐾 [Sistema de Cadastro da Clínica ThaynaBDSVet](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
+> **Academia Java Full-Stack, Curso Fuctura Tecnologia | Recife-PE, Brasil | Agosto 2026**
+
+Sistema de cadastro para pet shop, feito em Java com arquitetura em camadas (Controller, Service, Repository e Model).
+
+`Cursor` `Java` `Eclipse IDE`
+
+🔗 [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
+
+---
 
 ### 🏫 [Observatório de Projetos Integradores — Senac PE](https://grupotp.polyclub.com.br/)
 > **Centro Universitário Senac | Recife-PE, Brasil | Jan–Junho 2026**
