@@ -36,7 +36,7 @@
 
 ## 🎯 Available for Internship — Recife/PE, Brazil | Mon–Fri | 7am–6pm | Immediate Start
 
-Full-Stack Developer in training, currently studying **Systems Analysis and Development** at Centro Universitário Senac PE and the **Java Full-Stack Academy** at Fuctura Tecnologia. I build web applications with Java, Spring Boot, Angular, and TypeScript. I work with Python, C#, .NET 8, and ASP.NET Core, integrate REST APIs and OpenAI, and apply **Generative AI and Prompt Engineering** in hands-on projects. I also work as a Product Designer, with experience in high-fidelity prototyping in Figma, Requirements Analysis, and Scrum — Scrum Master certified by DIO. Differentiators: **Azure AI, RAG, NLP, Computer Vision, and automation with n8n**.
+Full-Stack Developer in training, currently focused on **Java and Spring Boot**, studying **Systems Analysis and Development** at Centro Universitário Senac PE, the **Java Full-Stack Academy** at Fuctura Tecnologia, and the **CI&T – Java AI Copilot Bootcamp** through DIO. I build web applications with Java, Spring Boot, Angular, and TypeScript. I work with Python, C#, .NET 8, and ASP.NET Core, integrate REST APIs and OpenAI, and apply **Generative AI and Prompt Engineering** in hands-on projects. I also work as a Product Designer, with experience in high-fidelity prototyping in Figma, Requirements Analysis, and Scrum — Scrum Master certified by DIO. Differentiators: **Azure AI, RAG, NLP, Computer Vision, and automation with n8n**.
 
 > 💡 *"Code is not just syntax — it's the bridge between ideas and impact."*
 
@@ -48,6 +48,8 @@ Full-Stack Developer in training, currently studying **Systems Analysis and Deve
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -57,6 +59,9 @@ Full-Stack Developer in training, currently studying **Systems Analysis and Deve
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4479A1?style=flat-square&logoColor=white)
+![Design Patterns GoF](https://img.shields.io/badge/Design_Patterns_GoF-4479A1?style=flat-square&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-4479A1?style=flat-square&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-4479A1?style=flat-square&logoColor=white)
 
 **🖥️ Front-End**
 
@@ -66,6 +71,7 @@ Full-Stack Developer in training, currently studying **Systems Analysis and Deve
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **🗄️ Databases**
@@ -132,6 +138,8 @@ Full-Stack Developer in training, currently studying **Systems Analysis and Deve
 - Back-end development with Java, Spring Boot, C#, and .NET 8
 - Building RESTful APIs with ASP.NET Core and Spring Boot
 - Front-end/back-end integration (Angular + REST API)
+- Persistence and security with Spring Data JPA and Spring Security
+- Clean Code practices, SOLID principles, and Design Patterns (GoF)
 - SQL modeling and queries (joins, subqueries, procedures, CTEs)
 - Code versioning with Git and GitHub
 - Workflow automation with n8n and Generative AI
@@ -153,6 +161,26 @@ Full-Stack Developer in training, currently studying **Systems Analysis and Deve
 ---
 
 ## 🚀 Featured Projects
+
+### 🏫 [Recife Saudável App — Senac PE](https://github.com/GrupoTP)
+> **Centro Universitário Senac | Recife-PE, Brazil | August–December 2026**
+
+Patient-centered mobile app and PWA, built to streamline pre-screening and medical appointment scheduling, providing a simple, accessible, secure, and objective experience.
+
+`Figma` `UX/UI` `Requirements Analysis` `Product Design` `Design & Prototyping` `React Native` `Java` `JavaScript` `HTML` `CSS`
+
+🔗 [GitHub](https://github.com/GrupoTP) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+
+---
+
+### ☕ CI&T – Java AI Copilot Bootcamp via DIO
+> **CI&T via DIO | Brazil | August–September 2026 (in progress)**
+
+Java, Spring Boot, and AI bootcamp with GitHub Copilot. Covers OOP, Prompt Engineering, Generative AI, SOLID, OpenFeign, LLMs, Agents, Design Patterns, and a speech-recognition API.
+
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Design Patterns GoF` `Clean Code` `REST API` `ASP.NET` `GitHub Copilot` `Microsoft Copilot` `AI`
+
+---
 
 ### 🐾 [ThaynaBDSVet Clinic Registration System](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
 > **Java Full-Stack Academy, Fuctura Tecnologia | Recife-PE, Brazil | August 2026**
@@ -303,6 +331,7 @@ Application with ranking logic in JavaScript for match classification.
 |---|---|---|---|
 | 🏫 Centro Universitário Senac PE | Systems Analysis and Development (Technology Degree) | Recife-PE, Brazil | Aug/2025 – Dec/2027 |
 | ☕ Fuctura Tecnologia | Java Full-Stack Academy | Recife-PE, Brazil | May/2026 – Jan/2027 |
+| 🤖 DIO (via CI&T) | CI&T – Java AI Copilot Bootcamp (53h) | Brazil | Aug/2026 – Sep/2026 |
 | 🏫 Centro Universitário Senac PE | Systems Programmer Certification | Recife-PE, Brazil | 2025 – 2026 |
 | 📋 Senac EAD | Sales Representative Course | Recife-PE, Brazil | Completed Feb/2024 |
 
