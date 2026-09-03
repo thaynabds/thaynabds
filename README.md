@@ -36,7 +36,7 @@
 
 ## 🎯 Disponível para Estágio — Recife/PE, Brasil | Seg–Sex | 7h–18h | Início Imediato
 
-Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Senac PE e **Academia Java Full-Stack** na Fuctura Tecnologia. Desenvolvo aplicações web com Java, Spring Boot, Angular e TypeScript. Trabalho com Python, C#, .NET 8 e ASP.NET Core, integro APIs REST e OpenAI, e aplico **IA Generativa e Engenharia de Prompt** em projetos práticos. Atuo também como Product Designer, com experiência em prototipagem de alta fidelidade no Figma, Análise de Requisitos e Scrum — certificada Scrum Master pela DIO. Diferencial: **Azure AI, RAG, NLP, Visão Computacional e automação com n8n**.
+Desenvolvedora Full-Stack em formação, com foco atual em **Java e Spring Boot**, cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Senac PE, **Academia Java Full-Stack** na Fuctura Tecnologia e o **Bootcamp CI&T – Java AI Copilot** pela DIO. Desenvolvo aplicações web com Java, Spring Boot, Angular e TypeScript. Trabalho com Python, C#, .NET 8 e ASP.NET Core, integro APIs REST e OpenAI, e aplico **IA Generativa e Engenharia de Prompt** em projetos práticos. Atuo também como Product Designer, com experiência em prototipagem de alta fidelidade no Figma, Análise de Requisitos e Scrum — certificada Scrum Master pela DIO. Diferencial: **Azure AI, RAG, NLP, Visão Computacional e automação com n8n**.
 
 > 💡 *"Code is not just syntax — it's the bridge between ideas and impact."*
 
@@ -48,6 +48,8 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -57,6 +59,9 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-4479A1?style=flat-square&logoColor=white)
+![Design Patterns GoF](https://img.shields.io/badge/Design_Patterns_GoF-4479A1?style=flat-square&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-4479A1?style=flat-square&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-4479A1?style=flat-square&logoColor=white)
 
 **🖥️ Front-End**
 
@@ -66,6 +71,7 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **🗄️ Banco de Dados**
@@ -132,6 +138,8 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 - Desenvolvimento back-end com Java, Spring Boot, C# e .NET 8
 - Criação de APIs RESTful com ASP.NET Core e Spring Boot
 - Integração front-end/back-end (Angular + API REST)
+- Persistência e segurança com Spring Data JPA e Spring Security
+- Boas práticas de Clean Code, princípios SOLID e Design Patterns (GoF)
 - Modelagem e consultas SQL (joins, subqueries, procedures, CTEs)
 - Versionamento de código com Git e GitHub
 - Automação de fluxos com n8n e IA Generativa
@@ -153,6 +161,26 @@ Desenvolvedora Full-Stack em formação, cursando **Análise e Desenvolvimento d
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🏫 [App Recife Saudável — Senac PE](https://github.com/GrupoTP)
+> **Centro Universitário Senac | Recife-PE, Brasil | Agosto–Dezembro 2026**
+
+Aplicativo mobile e PWA centrado no paciente, desenvolvido para facilitar a realização de pré-triagem e o agendamento de consultas médicas, proporcionando uma experiência simples, acessível, segura e objetiva.
+
+`Figma` `UX/UI` `Análise de Requisitos` `Product Design` `Design & Prototipação` `React Native` `Java` `JavaScript` `HTML` `CSS`
+
+🔗 [GitHub](https://github.com/GrupoTP) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+
+---
+
+### ☕ Bootcamp CI&T – Java AI Copilot pela DIO
+> **CI&T via DIO | Brasil | Agosto–Setembro 2026 (em andamento)**
+
+Bootcamp de Java, Spring Boot e IA com GitHub Copilot. Cobre POO, Engenharia de Prompt, IA Generativa, SOLID, OpenFeign, LLMs, Agentes, Design Patterns e API com reconhecimento de fala.
+
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `Design Patterns GoF` `Clean Code` `API REST` `ASP.NET` `GitHub Copilot` `Microsoft Copilot` `IA`
+
+---
 
 ### 🐾 [Sistema de Cadastro da Clínica ThaynaBDSVet](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
 > **Academia Java Full-Stack, Curso Fuctura Tecnologia | Recife-PE, Brasil | Agosto 2026**
@@ -303,6 +331,7 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 |---|---|---|---|
 | 🏫 Centro Universitário Senac PE | Tecnologia em Análise e Desenvolvimento de Sistemas | Recife-PE, Brasil | Ago/2025 – Dez/2027 |
 | ☕ Fuctura Tecnologia | Academia Java Full-Stack | Recife-PE, Brasil | Mai/2026 – Jan/2027 |
+| 🤖 DIO (via CI&T) | Bootcamp CI&T – Java AI Copilot (53h) | Brasil | Ago/2026 – Set/2026 |
 | 🏫 Centro Universitário Senac PE | Certificação em Programador de Sistemas | Recife-PE, Brasil | 2025 – 2026 |
 | 📋 Senac EAD | Curso de Representante Comercial | Recife-PE, Brasil | Concluído Fev/2024 |
 
