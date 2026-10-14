@@ -16,7 +16,7 @@ Estágio na Secretaria de Educação do Recife, laboratório de robótica e prog
 
 | Projeto | O que o código mostra | Link |
 | --- | --- | --- |
-| API de orçamento | Spring Boot, Spring Data JPA, MySQL, teste e Docker. A voz usa chave da OpenAI. | [repositório](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) |
+| API de orçamento | Spring Boot, Spring Data JPA, teste e Docker. O CRUD sobe com Java 21, sem chave. A voz usa a OpenAI. | [repositório](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) |
 | Clientes e endereços | Dois serviços Spring Boot, gateway, JWT e Docker. | [repositório](https://github.com/thaynabds/design-patterns-java-spring-github) |
 | ContaBanco | Java 17 no terminal, camadas, validação e JUnit. Os dados ficam em memória. | [repositório](https://github.com/thaynabds/ContaBanco---Simula-o-de-Conta-Banc-ria-via-Terminal) |
 | Clínica veterinária | Java no terminal, camadas e CRUD. Os dados ficam em memória. | [repositório](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet) |

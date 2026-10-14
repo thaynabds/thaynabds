@@ -16,7 +16,7 @@ Internship at the Recife Education Department, robotics and programming lab at E
 
 | Project | What the code shows | Link |
 | --- | --- | --- |
-| Budget API | Spring Boot, Spring Data JPA, MySQL, tests, and Docker. Voice features need an OpenAI key. | [repository](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) |
+| Budget API | Spring Boot, Spring Data JPA, tests, and Docker. CRUD starts on Java 21 without an API key. Voice needs OpenAI. | [repository](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) |
 | Customers and addresses | Two Spring Boot services, gateway, JWT, and Docker. | [repository](https://github.com/thaynabds/design-patterns-java-spring-github) |
 | ContaBanco | Java 17 terminal app, layers, validation, and JUnit. Data stays in memory. | [repository](https://github.com/thaynabds/ContaBanco---Simula-o-de-Conta-Banc-ria-via-Terminal) |
 | Veterinary clinic | Java terminal app, layers, and CRUD. Data stays in memory. | [repository](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet) |
