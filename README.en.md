@@ -38,7 +38,7 @@
 
 I am Thayná Batista. I am looking for a **Java** backend role, with Spring Boot, REST APIs, and a relational database. I study **Systems Analysis and Development** at Faculdade Senac Pernambuco, expected graduation in December 2027, and the **Java Full-Stack Academy** at Fuctura.
 
-The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) is the all-Java repo for class work and the academic system. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot): desktop and Android, audio and accessibility, on the person's own machine.
+The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) is the all-Java repo for class work and the academic system. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). I needed, in daily life, a program that would transcribe, read aloud, and keep audio and text on my own machine.
 
 Python, Kotlin, JavaScript, PHP, and .NET stay in the projects below.
 
@@ -228,7 +228,7 @@ Technical support in the robotics and programming lab, linked to the Executive B
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Two independent local programs, with no account and no own server. Desktop (Linux): transcribes audio, translates speech into English, reads text aloud, edits subtitles, converts media, and saves documents, keeping audio and text on the machine and using the network only to download models or voices, with confirmation. Android (test APK, Android 8+): records audio offline, reads text with the voice installed on the device, saves WAV and text, and shares files, without the Whisper engine. Both include seven themes (including High contrast) and color filters (inversion, protanopia, deuteranopia, tritanopia, and monochrome).
+Two independent local programs, with no account and no own server. It was built for a personal daily need: transcribe audio, read text aloud, and keep audio and text on the machine. Desktop (Linux) transcribes, translates speech into English, reads aloud, edits subtitles, converts media, and saves documents. The network is used only to download a model or a voice, after confirmation. Android (test APK, Android 8+) records audio offline, reads with the device voice, and stores WAV and text, without Whisper. Both include seven themes, including high contrast, and color filters.
 
 `Kotlin` `Java 17` `Jetpack Compose` `Material 3` `Android SDK 35 (min. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
 

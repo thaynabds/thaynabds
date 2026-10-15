@@ -38,7 +38,7 @@
 
 Sou Thayná Batista. A busca é por backend **Java**, com Spring Boot, API REST e banco relacional. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, formatura em dez/2027, e a **Academia Java Full-Stack** na Fuctura.
 
-O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) é o repositório 100% Java das aulas e do sistema acadêmico. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot): desktop e Android, áudio e acessibilidade, na própria máquina.
+O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) é o repositório 100% Java das aulas e do sistema acadêmico. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
 Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 
@@ -228,7 +228,7 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Dois programas locais e independentes, sem conta e sem servidor próprio. Desktop (Linux): transcreve áudio, traduz fala para inglês, lê texto em voz alta, edita legendas, converte mídia e grava documentos, com áudio e texto na própria máquina e rede apenas para baixar modelos ou vozes, com confirmação. Android (APK de teste, Android 8+): grava áudio offline, lê texto com a voz instalada no aparelho, salva WAV e texto e compartilha arquivos, sem o motor Whisper. Ambos têm sete temas (incluindo Alto contraste) e filtros de cor (inversão, protanopia, deuteranopia, tritanopia e monocromia).
+Dois programas locais e independentes, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. Desktop (Linux): transcreve, traduz fala para inglês, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. Android (APK de teste, Android 8+): grava áudio offline, lê com a voz do aparelho e guarda WAV e texto, sem Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de cor.
 
 `Kotlin` `Java 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
 
