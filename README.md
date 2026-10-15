@@ -228,9 +228,9 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Dois programas locais e independentes, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. Desktop (Linux): transcreve, traduz fala para inglês, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. Android (APK de teste, Android 8+): grava áudio offline, lê com a voz do aparelho e guarda WAV e texto, sem Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de cor.
+Dois programas locais e independentes, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia.
 
-`Kotlin` `Java 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
 
 🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
 

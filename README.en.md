@@ -228,9 +228,9 @@ Technical support in the robotics and programming lab, linked to the Executive B
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Two independent local programs, with no account and no own server. It was built for a personal daily need: transcribe audio, read text aloud, and keep audio and text on the machine. Desktop (Linux) transcribes, translates speech into English, reads aloud, edits subtitles, converts media, and saves documents. The network is used only to download a model or a voice, after confirmation. Android (test APK, Android 8+) records audio offline, reads with the device voice, and stores WAV and text, without Whisper. Both include seven themes, including high contrast, and color filters.
+Two independent local programs, with no account and no own server. It was built for a personal daily need: transcribe audio, read text aloud, and keep audio and text on the machine. On the computer (Linux), it transcribes audio, translates speech into English, translates text with a separate engine, reads aloud, edits subtitles, converts media, and saves documents. The network is used only to download a model or a voice, after confirmation. On Android, the test APK (Android 8 or newer) records audio offline as M4A, reads with a voice installed on the device, saves that reading as WAV and the text, and shares files. It does not use Whisper. Both include seven themes, including high contrast, and filters for inversion, smart inversion, protanopia, deuteranopia, tritanopia, and grayscale.
 
-`Kotlin` `Java 17` `Jetpack Compose` `Material 3` `Android SDK 35 (min. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (min. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
 
 🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
 
