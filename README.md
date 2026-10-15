@@ -36,7 +36,7 @@
 
 ## 🎯 Vaga júnior Java — Recife/PE | Seg–Sex | 7h–18h
 
-Sou Thayná Batista. A busca é por backend **Java**, com Spring Boot, API REST e banco relacional. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, formatura em dez/2027, e a **Academia Java Full-Stack** na Fuctura.
+Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
 
 O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
@@ -49,7 +49,7 @@ Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 ## 💼 Experiência Profissional
 
 ### 💼 Estágio em Análise e Desenvolvimento de Sistemas
-> **Prefeitura do Recife, Secretaria de Educação | Escola Municipal Karla Patrícia, Laboratório de Robótica e Programação | Recife-PE, Brasil | Nov/2026 – Nov/2027**
+> **Prefeitura do Recife, Secretaria de Educação | Escola Municipal Karla Patrícia, Laboratório de Robótica e Programação | Recife-PE, Brasil | Nov/2026 – Nov/2027, a iniciar em novembro de 2026**
 
 Apoio técnico no laboratório de robótica e programação, vinculado à Diretoria Executiva de Tecnologia na Educação. Desenvolvimento e manutenção de sites e soluções, análise de softwares educacionais e aplicativos de pensamento computacional, diagnóstico de notebooks, tablets e mesas educacionais, configuração de computadores e propostas de melhoria da rede. Aplicação de lógica de programação, prototipação, testes e depuração de código.
 
@@ -530,7 +530,7 @@ Projeto Bicho do Mês — conscientização sobre importância dos animais no ec
     <td align="center" width="180">
       <img src="https://flagcdn.com/w80/us.png" width="48" height="32" alt="Inglês"/><br/>
       <strong>Inglês</strong><br/>
-      <img src="https://img.shields.io/badge/Avançado-1565C0?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fluente-1565C0?style=flat-square&logoColor=white" />
     </td>
     <td align="center" width="180">
       <img src="https://flagcdn.com/w80/es.png" width="48" height="32" alt="Espanhol"/><br/>

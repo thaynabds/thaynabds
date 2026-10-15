@@ -36,7 +36,7 @@
 
 ## 🎯 Junior Java role — Recife, Brazil | Mon–Fri | 7am–6pm
 
-I am Thayná Batista. I am looking for a **Java** backend role, with Spring Boot, REST APIs, and a relational database. I study **Systems Analysis and Development** at Faculdade Senac Pernambuco, expected graduation in December 2027, and the **Java Full-Stack Academy** at Fuctura.
+I am Thayná Batista. I take night classes in **Systems Analysis and Development** at Faculdade Senac Pernambuco, graduating in December 2027, and I am available during business hours. I am looking for a junior **Java** backend role, with Spring Boot, REST APIs, and a relational database. I also study at the **Java Full-Stack Academy** at Fuctura.
 
 The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) holds the Java class exercises. The [academic system](https://github.com/thaynabds/sistemaGerenciadorAcademico) registers students, teachers, courses, and enrollments with JDBC and PostgreSQL. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). I needed, in daily life, a program that would transcribe, read aloud, and keep audio and text on my own machine.
 
@@ -49,7 +49,7 @@ Python, Kotlin, JavaScript, PHP, and .NET stay in the projects below.
 ## 💼 Professional Experience
 
 ### 💼 Internship in Systems Analysis and Development
-> **Recife City Hall, Department of Education | Karla Patrícia Municipal School, Robotics and Programming Lab | Recife-PE, Brazil | Nov/2026 – Nov/2027**
+> **Recife City Hall, Department of Education | Karla Patrícia Municipal School, Robotics and Programming Lab | Recife-PE, Brazil | Nov/2026 – Nov/2027, starting November 2026**
 
 Technical support in the robotics and programming lab, linked to the Executive Board of Technology in Education. Development and maintenance of websites and solutions, analysis of educational software and computational thinking apps, diagnostics of laptops, tablets, and educational tables, computer setup, and network improvement proposals. Application of programming logic, prototyping, testing, and debugging.
 
@@ -530,7 +530,7 @@ Application with ranking logic in JavaScript for match classification.
     <td align="center" width="180">
       <img src="https://flagcdn.com/w80/us.png" width="48" height="32" alt="English"/><br/>
       <strong>English</strong><br/>
-      <img src="https://img.shields.io/badge/Advanced-1565C0?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fluent-1565C0?style=flat-square&logoColor=white" />
     </td>
     <td align="center" width="180">
       <img src="https://flagcdn.com/w80/es.png" width="48" height="32" alt="Spanish"/><br/>
