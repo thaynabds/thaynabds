@@ -38,7 +38,7 @@
 
 Sou Thayná Batista. A busca é por backend **Java**, com Spring Boot, API REST e banco relacional. Curso **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, formatura em dez/2027, e a **Academia Java Full-Stack** na Fuctura.
 
-O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) é o repositório 100% Java das aulas e do sistema acadêmico. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
+O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
 Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 
@@ -228,9 +228,9 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Dois programas locais e independentes, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular.
+Quatro programas no mesmo repositório, cada um separado, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste de 15/10/2026 (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular. Ele nomeia quem falou na chamada e pode enviar a rolagem pública para o link de uma mesa, sem entrar na conta dela. As anotações de reunião também são outro programa: leem a transcrição baixada do Teams, do Meet ou de outro nome, e não entram na reunião.
 
-`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py`
 
 🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
 
@@ -251,11 +251,22 @@ API REST de transações financeiras. O CRUD sobe sem chave de IA, com `./gradle
 ### [☕ javaFuctura](https://github.com/thaynabds/javaFuctura)
 > **Academia Java Full-Stack, Fuctura Tecnologia | Recife-PE | 2026**
 
-Repositório 100% Java. Os exercícios das aulas estão em código-fonte, com testes. O sistema acadêmico da turma entra neste repositório, em console, JDBC e PostgreSQL.
+Repositório 100% Java. Os exercícios das aulas estão em código-fonte, com testes. O sistema acadêmico da turma está no repositório ao lado.
 
 `Java 21` `Maven` `JUnit` `JDBC` `PostgreSQL`
 
 🔗 [GitHub](https://github.com/thaynabds/javaFuctura)
+
+---
+
+### [☕ Sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico)
+> **Java 21 | JDBC | PostgreSQL | 2026**
+
+Console para cadastro de alunos, professores, disciplinas e matrículas. O controlador chama o service, o service chama o DAO, e o DAO usa `PreparedStatement`. A senha do banco fica fora do Git.
+
+`Java 21` `Maven` `JDBC` `PostgreSQL` `JLine`
+
+🔗 [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
 
 ---
 
@@ -358,6 +369,9 @@ Aplicação Full-Stack com CRUD de tarefas, filtro por status, API REST (ASP.NET
 
 ---
 
+<details>
+<summary><strong>Protótipos, bootcamps curtos e exercícios</strong></summary>
+
 ### [🎙️ Voice ChatGPT — Conversa por Voz com IA](https://github.com/thaynabds/Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python)
 > **Bootcamp Bradesco GenAI & Dados | DIO | Brasil | Mai 2026**
 
@@ -454,6 +468,8 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 `JavaScript` `Lógica de Programação` `Front-End`
 
 🔗 [GitHub](https://github.com/thaynabds/CalculadoraDePartidasRankeadas)
+
+</details>
 
 ---
 

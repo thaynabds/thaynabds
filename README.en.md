@@ -38,7 +38,7 @@
 
 I am Thayná Batista. I am looking for a **Java** backend role, with Spring Boot, REST APIs, and a relational database. I study **Systems Analysis and Development** at Faculdade Senac Pernambuco, expected graduation in December 2027, and the **Java Full-Stack Academy** at Fuctura.
 
-The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) is the all-Java repo for class work and the academic system. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). I needed, in daily life, a program that would transcribe, read aloud, and keep audio and text on my own machine.
+The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) holds the Java class exercises. The [academic system](https://github.com/thaynabds/sistemaGerenciadorAcademico) registers students, teachers, courses, and enrollments with JDBC and PostgreSQL. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). I needed, in daily life, a program that would transcribe, read aloud, and keep audio and text on my own machine.
 
 Python, Kotlin, JavaScript, PHP, and .NET stay in the projects below.
 
@@ -228,9 +228,9 @@ Technical support in the robotics and programming lab, linked to the Executive B
 
 ### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
 
-Two independent local programs, with no account and no own server. It was built for a personal daily need: transcribe audio, read text aloud, and keep audio and text on the machine. On the computer (Linux), it transcribes audio, translates speech into English, translates text with a separate engine, reads aloud, edits subtitles, converts media, and saves documents. The network is used only to download a model or a voice, after confirmation. On Android, the test APK (Android 8 or newer) records audio offline as M4A, reads with a voice installed on the device, saves that reading as WAV and the text, and shares files. It does not use Whisper. Both include seven themes, including high contrast, and filters for inversion, smart inversion, protanopia, deuteranopia, tritanopia, and grayscale. The Discord bot is part of this project, but it is a separate program: it does not start with the computer app or the phone app.
+Four programs in the same repository, each one separate, with no account and no own server. It was built for a personal daily need: transcribe audio, read text aloud, and keep audio and text on the machine. On the computer (Linux), it transcribes audio, translates speech into English, translates text with a separate engine, reads aloud, edits subtitles, converts media, and saves documents. The network is used only to download a model or a voice, after confirmation. On Android, the test APK from 15 Oct 2026 (Android 8 or newer) records audio offline as M4A, reads with a voice installed on the device, saves that reading as WAV and the text, and shares files. It does not use Whisper. Both include seven themes, including high contrast, and filters for inversion, smart inversion, protanopia, deuteranopia, tritanopia, and grayscale. The Discord bot is part of this project, but it is a separate program: it does not start with the computer app or the phone app. It names who spoke in the call and can send a public roll to a table link without logging into that table. Meeting notes are another program: they read a transcript downloaded from Teams, Meet, or another name, and they do not join the meeting.
 
-`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (min. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf`
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (min. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py`
 
 🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
 
@@ -251,11 +251,22 @@ REST API for financial transactions. CRUD starts without an AI key, with `./grad
 ### [☕ javaFuctura](https://github.com/thaynabds/javaFuctura)
 > **Java Full-Stack Academy, Fuctura Tecnologia | Recife, Brazil | 2026**
 
-All-Java repository. Class exercises are source code, with tests. The class academic system will live in this repository, as a console app with JDBC and PostgreSQL.
+All-Java repository. Class exercises are source code, with tests. The class academic system lives in the repository next to this one.
 
 `Java 21` `Maven` `JUnit` `JDBC` `PostgreSQL`
 
 🔗 [GitHub](https://github.com/thaynabds/javaFuctura)
+
+---
+
+### [☕ Academic system](https://github.com/thaynabds/sistemaGerenciadorAcademico)
+> **Java 21 | JDBC | PostgreSQL | 2026**
+
+Console app to register students, teachers, courses, and enrollments. The controller calls the service, the service calls the DAO, and the DAO uses `PreparedStatement`. The database password stays out of Git.
+
+`Java 21` `Maven` `JDBC` `PostgreSQL` `JLine`
+
+🔗 [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
 
 ---
 
@@ -358,6 +369,9 @@ Full-Stack application with task CRUD, status filtering, a REST API (ASP.NET Cor
 
 ---
 
+<details>
+<summary><strong>Prototypes, short bootcamps, and exercises</strong></summary>
+
 ### [🎙️ Voice ChatGPT — Voice Conversation with AI](https://github.com/thaynabds/Conversando-por-Voz-Com-o-ChatGPT-Utilizando-Whisper-OpenAI-e-Python)
 > **Bradesco GenAI & Data Bootcamp | DIO | Brazil | May 2026**
 
@@ -454,6 +468,8 @@ Application with ranking logic in JavaScript for match classification.
 `JavaScript` `Programming Logic` `Front-End`
 
 🔗 [GitHub](https://github.com/thaynabds/CalculadoraDePartidasRankeadas)
+
+</details>
 
 ---
 
