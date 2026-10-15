@@ -36,7 +36,7 @@
 
 ## 🎯 Junior Java role — Recife, Brazil | Mon–Fri | 7am–6pm
 
-I am Thayná Batista. I take night classes in **Systems Analysis and Development** at Faculdade Senac Pernambuco, graduating in December 2027, and I am available during business hours. I am looking for a junior **Java** backend role, with Spring Boot, REST APIs, and a relational database. I also study at the **Java Full-Stack Academy** at Fuctura.
+I am Thayná Batista. I take night classes in **Systems Analysis and Development** at Faculdade Senac Pernambuco, Monday to Friday, 6:00 p.m. to 10:00 p.m., graduating in December 2027, and I am available during business hours. I am looking for a junior **Java** backend role, with Spring Boot, REST APIs, and a relational database. I also study at the **Java Full-Stack Academy** at Fuctura.
 
 The first repo to open is the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, it starts without an API key, and `POST /api/transactions` stores the expense. [javaFuctura](https://github.com/thaynabds/javaFuctura) holds the Java class exercises. The [academic system](https://github.com/thaynabds/sistemaGerenciadorAcademico) registers students, teachers, courses, and enrollments with JDBC and PostgreSQL. The project I care about most is [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). I needed, in daily life, a program that would transcribe, read aloud, and keep audio and text on my own machine.
 

@@ -36,7 +36,7 @@
 
 ## 🎯 Vaga júnior Java — Recife/PE | Seg–Sex | 7h–18h
 
-Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
+Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, de segunda a sexta, das 18h às 22h, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
 
 O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
