@@ -238,11 +238,11 @@ Four programs in the same repository, each one separate, with no account and no 
 
 
 ### [☕ Budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
-> **Java 21 | Spring Boot | JPA | Oct/2026**
+> **Java 21 | Spring Boot 4.1.1 | JPA | Oct/2026**
 
-REST API for financial transactions. CRUD starts without an AI key, with `./gradlew bootRun --args='--spring.profiles.active=local'`. Voice stays on the `ai` profile, with an OpenAI key.
+REST API for financial transactions. CRUD starts without an AI key, with `./gradlew bootRun --args='--spring.profiles.active=local'`. Voice stays on the `ai` profile, with an OpenAI key. On 17 Oct 2026, GET / and GET /api/transactions returned 200, and GET /actuator/health returned UP.
 
-`Java 21` `Spring Boot` `Spring Data JPA` `H2` `MySQL` `JUnit` `Docker` `Gradle`
+`Java 21` `Spring Boot 4.1.1` `Spring Data JPA` `H2` `MySQL` `JUnit` `Docker` `Gradle`
 
 🔗 [Site](https://api-inteligente-com-reconhecimento-de.onrender.com) · [GitHub](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 
@@ -298,20 +298,20 @@ Technology training and university outreach program in Science, Technology, Engi
 
 Academic solution for small merchants to track, on each Smart POS sale, the split between tax (IBS/CBS), fee, and net amount, with a searchable record and a plain-language explanation. Calculation relies on deterministic rules, and AI only interprets the result already calculated. At the 10/10/2026 delivery, the web dashboard and the Android app run in demo mode, with local tests (59 on web and 14 on Android). Backend, database, and deployment are the next step. No real financial transfer is made.
 
-`Java` `Spring Boot` `Spring Web` `Spring Data JPA` `Spring Security` `Bean Validation` `OpenAPI/Swagger` `PostgreSQL` `Docker` `Docker Compose` `Mockito` `Android Studio` `Jetpack` `HTTP Client` `MockAIProvider` `LLM Provider` `Research` `Product` `UX` `Prototype` `Architecture` `Requirements Documentation`
+`Delivered on 10 Oct 2026: Android (Jetpack, HTTP client, MockAIProvider), web dashboard, UX, prototype, and documentation` `Next step: Java, Spring Boot, Spring Security, PostgreSQL, Docker, OpenAPI/Swagger`
 
 🔗 [GitHub](https://github.com/lucasandare490/Avanade) · [Figma](https://www.figma.com/make/tJXFL2o4nYoZnZARUCkBLQ/Planner-Comercial-MVP-Design?fullscreen=1&t=eHnrGK6MEaRFtph4-1&code-node-id=0-6)
 
 ---
 
-### [🏫 MedCall (formerly Recife Saudável App)](https://github.com/GrupoTP)
+### [🏫 MedCall (formerly Recife Saudável App)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2)
 > **Senac College of Pernambuco | Recife-PE Brazil | August–December 2026**
 
-Mobile app (Android and iOS) and PWA for partner clinics, patient-centered. It organizes patient intake before the appointment: informational pre-screening in four steps and scheduling in three, reusing already registered data. Slots are confirmed on the server to prevent double booking of the same time. The interface uses plain language, high contrast, and few clicks, with attention to older adults. The system does not diagnose, prescribe, or define clinical conduct.
+Mobile app (Android and iOS) and PWA for partner clinics, patient-centered. It organizes patient intake before the appointment: informational pre-screening in four steps and scheduling in three, reusing already registered data. Slots are confirmed on the server to prevent double booking of the same time. The interface uses plain language, high contrast, and few clicks, with attention to older adults. The system does not diagnose, prescribe, or define clinical conduct. On 17 Oct 2026 the main branch has only the README. The server on branch poc-full-kotlin is Kotlin JVM 21 with Ktor, not Spring Boot.
 
-`Kotlin` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `REST/JSON API` `OpenAPI/Swagger` `HTML` `CSS` `JavaScript` `PWA` `React` `React Native` `Expo Go` `Kotlin Multiplatform` `JUnit` `Mockito` `Git` `GitHub` `Figma` `FigJam` `YouTrack` `Canva` `Cursor` `Android Studio` `IntelliJ IDEA` `UML` `Scrum` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Scrum Master` `Development` `Technical Documentation` `Figma Prototyping` `UX` `Project Management`
+`main branch has only the README` `server on branch poc-full-kotlin: Kotlin JVM 21 and Ktor, not Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Technical Documentation` `Figma Prototyping`
 
-🔗 [GitHub](https://github.com/GrupoTP) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -330,7 +330,7 @@ Java, Spring Boot, and AI bootcamp with GitHub Copilot. Covers OOP, Prompt Engin
 
 Registration system for a pet shop, built in Java with a layered architecture (Controller, Service, Repository, and Model).
 
-`Cursor` `Java` `Eclipse IDE`
+`Java 17` `Maven` `JUnit 5` `GitHub Actions`
 
 🔗 [Site](https://veterinaryclinicthaynabdsvet.onrender.com) · [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
 
