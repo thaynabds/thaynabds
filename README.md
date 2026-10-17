@@ -38,7 +38,7 @@
 
 Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, de segunda a sexta, das 18h às 22h, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
 
-O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) ([site](https://sistemagerenciadoracademico.onrender.com)) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
+O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) ([API](https://sistemagerenciadoracademico.onrender.com)) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
 Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 
@@ -226,17 +226,6 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 
 ## 🚀 Projetos em Destaque
 
-### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
-
-Quatro programas no mesmo repositório, cada um separado, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste de 15/10/2026 (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular. Ele nomeia quem falou na chamada e pode enviar a rolagem pública para o link de uma mesa, sem entrar na conta dela. As anotações de reunião também são outro programa: leem a transcrição baixada do Teams, do Meet ou de outro nome, e não entram na reunião.
-
-`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py`
-
-🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
-
----
-
-
 ### [☕ API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 > **Java 21 | Spring Boot 4.1.1 | JPA | Out/2026**
 
@@ -245,6 +234,16 @@ API REST de transações financeiras. O CRUD sobe sem chave de IA, com `./gradle
 `Java 21` `Spring Boot 4.1.1` `Spring Data JPA` `H2` `MySQL` `JUnit` `Docker` `Gradle`
 
 🔗 [Site](https://api-inteligente-com-reconhecimento-de.onrender.com) · [GitHub](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
+
+---
+
+### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
+
+Quatro programas no mesmo repositório, cada um separado, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste de 15/10/2026 (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular. Ele nomeia quem falou na chamada e pode enviar a rolagem pública para o link de uma mesa, sem entrar na conta dela. As anotações de reunião também são outro programa: leem a transcrição baixada do Teams, do Meet ou de outro nome, e não entram na reunião.
+
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py`
+
+🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot)
 
 ---
 
@@ -266,7 +265,7 @@ Console para cadastro de alunos, professores, disciplinas e matrículas. O contr
 
 `Java 21` `Maven` `JDBC` `PostgreSQL` `JLine`
 
-🔗 [Site](https://sistemagerenciadoracademico.onrender.com) · [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
+🔗 [API](https://sistemagerenciadoracademico.onrender.com) · [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
 
 ---
 
@@ -304,14 +303,14 @@ Solução acadêmica para o pequeno comerciante acompanhar, em cada venda no Sma
 
 ---
 
-### [🏫 MedCall (antigo App Recife Saudável)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2)
+### [🏫 MedCall (antigo App Recife Saudável)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin)
 > **Faculdade Senac de Pernambuco | Recife-PE Brasil | Agosto–Dezembro 2026**
 
 Aplicativo mobile (Android e iOS) e PWA para clínicas parceiras, centrado no paciente. Organiza o acolhimento antes da consulta: pré-triagem informativa em quatro etapas e agendamento em três, reaproveitando os dados já cadastrados. A vaga é confirmada no servidor, evitando o agendamento duplicado do mesmo horário. A interface usa linguagem simples, alto contraste e poucos cliques, com atenção a pessoas idosas. O sistema não diagnostica, não prescreve e não define conduta clínica. A branch main, em 17/10/2026, só tem README. O servidor na branch poc-full-kotlin é Kotlin JVM 21 com Ktor, não Spring Boot.
 
 `branch main só com README` `servidor na branch poc-full-kotlin: Kotlin JVM 21 e Ktor, não Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Lei Brasileira de Inclusão` `NBR 17225` `Análise de Requisitos` `Documentação Técnica` `Prototipação no Figma`
 
-🔗 [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -332,7 +331,7 @@ Sistema de cadastro para pet shop, feito em Java com arquitetura em camadas (Con
 
 `Java 17` `Maven` `JUnit 5` `GitHub Actions`
 
-🔗 [Site](https://veterinaryclinicthaynabdsvet.onrender.com) · [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
+🔗 [API](https://veterinaryclinicthaynabdsvet.onrender.com) · [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
 
 ---
 
