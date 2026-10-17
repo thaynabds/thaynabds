@@ -38,7 +38,7 @@
 
 Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, de segunda a sexta, das 18h às 22h, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
 
-O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
+O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) ([site](https://sistemagerenciadoracademico.onrender.com)) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
 
 Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 
@@ -244,7 +244,7 @@ API REST de transações financeiras. O CRUD sobe sem chave de IA, com `./gradle
 
 `Java 21` `Spring Boot` `Spring Data JPA` `H2` `MySQL` `JUnit` `Docker` `Gradle`
 
-🔗 [GitHub](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
+🔗 [Site](https://api-inteligente-com-reconhecimento-de.onrender.com) · [GitHub](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 
 ---
 
@@ -266,7 +266,7 @@ Console para cadastro de alunos, professores, disciplinas e matrículas. O contr
 
 `Java 21` `Maven` `JDBC` `PostgreSQL` `JLine`
 
-🔗 [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
+🔗 [Site](https://sistemagerenciadoracademico.onrender.com) · [GitHub](https://github.com/thaynabds/sistemaGerenciadorAcademico)
 
 ---
 
@@ -332,7 +332,7 @@ Sistema de cadastro para pet shop, feito em Java com arquitetura em camadas (Con
 
 `Cursor` `Java` `Eclipse IDE`
 
-🔗 [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
+🔗 [Site](https://veterinaryclinicthaynabdsvet.onrender.com) · [GitHub](https://github.com/thaynabds/VeterinaryClinicThaynaBDSVet/tree/main)
 
 ---
 
@@ -354,7 +354,7 @@ Plataforma web centralizada para o Aeroclube Asas Abertas de Pernambuco. Central
 
 `HTML` `CSS3` `JavaScript` `Vercel` `Figma` `UX/UI`
 
-🔗 [Site/Deploy](https://asasabertas-aero-clube.vercel.app/) · [GitHub](https://github.com/thaynabds/AeroclubAsasAbertas/tree/main) · [Pitch](https://youtu.be/3jx62rMK60U)
+🔗 [Site/Deploy](https://asasabertas-aero-clube.vercel.app/) · [GitHub Pages](https://thaynabds.github.io/AeroclubAsasAbertas/) · [GitHub](https://github.com/thaynabds/AeroclubAsasAbertas/tree/main) · [Pitch](https://youtu.be/3jx62rMK60U)
 
 ---
 
@@ -390,7 +390,7 @@ Assistente financeiro inteligente com interface web. Simula juros compostos, fin
 
 `Python` `IA Generativa` `OpenAI API` `Engenharia de Prompt`
 
-🔗 [GitHub](https://github.com/thaynabds/Construa-seu-Assistente-Virtual-com-Intelig-ncia-Artificial)
+🔗 [Site](https://thaynabds.github.io/Construa-seu-Assistente-Virtual-com-Intelig-ncia-Artificial/) · [GitHub](https://github.com/thaynabds/Construa-seu-Assistente-Virtual-com-Intelig-ncia-Artificial)
 
 ---
 
