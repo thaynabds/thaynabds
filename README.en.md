@@ -184,7 +184,7 @@ Technical support in the robotics and programming lab, linked to the Executive B
 
 **📐 Methodology**
 
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-6DB33F?style=flat-square&logoColor=white)
 ![Process Automation](https://img.shields.io/badge/Process_Automation-EF6C00?style=flat-square&logoColor=white)
@@ -219,7 +219,7 @@ Technical support in the robotics and programming lab, linked to the Executive B
 - Organization, autonomy, and continuous learning
 - Clear communication and teamwork
 - Proactivity and time management
-- Agile methodologies — Scrum Master certified by DIO
+- Agile methodologies — Scrum Master preparatory course at DIO
 - Team leadership and project management
 
 ---
@@ -491,7 +491,7 @@ Application with ranking logic in JavaScript for match classification.
 | ChatGPT for Devs | DIO | Brazil | May/2026 |
 | Bradesco GenAI & Data | DIO | Brazil | May/2026 |
 | Avanade Protagonize Tech Back-End Training (100h) | Impacta | Brazil | Mar/2026 |
-| Scrum Master Certification | DIO | Brazil | Feb/2026 |
+| Scrum Master preparatory course at DIO | DIO | Brazil | Feb/2026 |
 | GitHub Certification | DIO | Brazil | Feb/2025 |
 | AI Fundamentals | DIO | Brazil | Feb/2025 |
 | Programming Logic | DIO | Brazil | Feb/2025 |

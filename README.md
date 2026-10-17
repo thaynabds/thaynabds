@@ -184,7 +184,7 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 
 **📐 Metodologia**
 
-![Scrum Master](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Gestão de Projetos](https://img.shields.io/badge/Gestão_de_Projetos-6DB33F?style=flat-square&logoColor=white)
 ![Automação de Processos](https://img.shields.io/badge/Automação_de_Processos-EF6C00?style=flat-square&logoColor=white)
@@ -219,7 +219,7 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 - Organização, autonomia e aprendizado contínuo
 - Comunicação clara e trabalho em equipe
 - Proatividade e gestão de tempo
-- Metodologias ágeis — Scrum Master certificada pela DIO
+- Metodologias ágeis — curso preparatório de Scrum Master na DIO
 - Liderança de equipe e gestão de projetos
 
 ---
@@ -491,7 +491,7 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 | ChatGPT for Devs | DIO | Brasil | Mai/2026 |
 | Bradesco GenAI & Dados | DIO | Brasil | Mai/2026 |
 | Formação Back-End Avanade Protagonize Tech (100h) | Impacta | Brasil | Mar/2026 |
-| Scrum Master Certification | DIO | Brasil | Fev/2026 |
+| Curso preparatório de Scrum Master na DIO | DIO | Brasil | Fev/2026 |
 | GitHub Certification | DIO | Brasil | Fev/2025 |
 | Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2025 |
 | Lógica de Programação | DIO | Brasil | Fev/2025 |
