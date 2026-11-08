@@ -230,6 +230,19 @@ Technical support in the robotics and programming lab, linked to the Executive B
 
 ## 🚀 Featured Projects
 
+### [🐉 JobDragonQuest — job application hub](https://github.com/thaynabds/JobDragonQuest-publico)
+> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.5.1**
+
+Platform to organize a job search: multiple professional profiles, automatic job collection from public ATS APIs (Greenhouse, Lever, SmartRecruiters, Ashby), explainable match score, a 19-stage application Kanban driven by evidence, notifications, résumé and cover letter tailored to each job without inventing profile data, a browser extension, and an MCP server to use it with your own AI. Dashboard in Portuguese, English and Spanish, with an accessibility center. One-command install, runs on your own computer.
+
+Engineering: 309 automated tests, 92.3% API line coverage, end-to-end browser test (Playwright), read p95 of at most 103 ms, CI with OSV-Scanner, ESLint, Ruff and Checkstyle, Git Flow with Conventional Commits, ADRs and automatic release notes.
+
+`Java 21` `Spring Boot 4.1` `Spring Security` `PostgreSQL` `Flyway` `React 19` `TypeScript` `Vite` `Node.js` `MCP` `Python` `Playwright` `GitHub Actions`
+
+🔗 [GitHub](https://github.com/thaynabds/JobDragonQuest-publico)
+
+---
+
 ### [☕ Budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 > **Java 21 | Spring Boot 4.1.1 | JPA | Oct/2026**
 
