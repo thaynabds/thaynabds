@@ -501,9 +501,9 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 | N8N - Fundamentos (5h) | Impacta | Brasil | Abr/2026 |
 | Residência Tecnológica (Kick Off 2025.2 e Rise UP 2026.1) | Porto Digital | Recife-PE, Brasil | Ago/2025 – Jun/2026 |
 | Curso preparatório de Scrum Master na DIO | DIO | Brasil | Fev/2026 |
-| GitHub Certification | DIO | Brasil | Fev/2025 |
-| Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2025 |
-| Lógica de Programação | DIO | Brasil | Fev/2025 |
+| GitHub Certification | DIO | Brasil | Fev/2026 |
+| Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2026 |
+| Lógica de Programação | DIO | Brasil | Fev/2026 |
 | Versionamento de Código com Git e GitHub | DIO | Brasil | Set/2025 |
 | Introdução às IDEs e Configuração de Ambiente .NET | DIO | Brasil | Set/2025 |
 | Introdução ao .NET | DIO | Brasil | Ago/2025 |

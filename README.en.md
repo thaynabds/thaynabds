@@ -501,9 +501,9 @@ Application with ranking logic in JavaScript for match classification.
 | N8N - Fundamentals (5h) | Impacta | Brazil | Apr/2026 |
 | Tech Residency (Kick Off 2025.2 and Rise UP 2026.1) | Porto Digital | Recife-PE, Brazil | Aug/2025 – Jun/2026 |
 | Scrum Master preparatory course at DIO | DIO | Brazil | Feb/2026 |
-| GitHub Certification | DIO | Brazil | Feb/2025 |
+| GitHub Certification | DIO | Brazil | Feb/2026 |
 | AI Fundamentals | DIO | Brazil | Feb/2025 |
-| Programming Logic | DIO | Brazil | Feb/2025 |
+| Programming Logic | DIO | Brazil | Feb/2026 |
 | Version Control with Git and GitHub | DIO | Brazil | Sep/2025 |
 | Introduction to IDEs and .NET Environment Setup | DIO | Brazil | Sep/2025 |
 | Introduction to .NET | DIO | Brazil | Aug/2025 |
