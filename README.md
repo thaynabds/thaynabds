@@ -27,6 +27,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-thaynabds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaynabds)
 [![Instagram](https://img.shields.io/badge/Instagram-thaynabdstec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thaynabdstec/)
 [![Gmail](https://img.shields.io/badge/Gmail-thaynabdstec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaynabdstec@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-thaynabds.github.io/cv-6C3483?style=for-the-badge&logo=githubpages&logoColor=white)](https://thaynabds.github.io/cv/)
+[![DIO](https://img.shields.io/badge/DIO-thaynabds-1A237E?style=for-the-badge&logoColor=white)](https://web.dio.me/users/thaynabds)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-0D47A1?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/9706695368434002)
+[![Senac](https://img.shields.io/badge/E--mail-Senac-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:thayna.silva4815352@edu.pe.senac.br)
 
 <img src="https://komarev.com/ghpvc/?username=thaynabds&label=Visualizações%20do%20Perfil&color=6C3483&style=flat-square" />
 
@@ -49,7 +53,7 @@ Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 ## 💼 Experiência Profissional
 
 ### 💼 Estágio em Análise e Desenvolvimento de Sistemas
-> **Prefeitura do Recife, Secretaria de Educação | Escola Municipal Karla Patrícia, Laboratório de Robótica e Programação | Recife-PE, Brasil | Nov/2026 – Nov/2027, a iniciar em novembro de 2026**
+> **Prefeitura do Recife, Secretaria de Educação | Escola Municipal Karla Patrícia, Laboratório de Robótica e Programação | Recife-PE, Brasil | Nov/2026 – Nov/2027, em andamento desde 03/11/2026**
 
 Apoio técnico no laboratório de robótica e programação, vinculado à Diretoria Executiva de Tecnologia na Educação. Desenvolvimento e manutenção de sites e soluções, análise de softwares educacionais e aplicativos de pensamento computacional, diagnóstico de notebooks, tablets e mesas educacionais, configuração de computadores e propostas de melhoria da rede. Aplicação de lógica de programação, prototipação, testes e depuração de código.
 
@@ -281,6 +285,17 @@ Abertura de conta, depósito, saque e saldo. Camadas controller, service, reposi
 ---
 
 
+### [♿ AccessAbilityWidget — Widget de Acessibilidade Universal](https://github.com/thaynabds/accessability-widget)
+> **Projeto independente | Outubro 2026**
+
+Widget de acessibilidade com 19 recursos, instalável em qualquer site com uma linha de código, em conformidade com a WCAG 2.2 e a LBI (Lei 13.146/2015). Publicado no npm e servido por CDN. Front-end com modo escuro, alto contraste, filtros de daltonismo, fonte OpenDyslexic, guia de leitura e leitura em voz alta. Back-end com API REST em Java para salvar as preferências de cada usuário.
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `BCrypt` `Spring Data JPA` `OpenAPI/Swagger` `JUnit 5` `Mockito` `JavaScript` `CSS3` `Web Speech API` `npm` `GitHub Actions` `GitHub Pages` `WCAG 2.2`
+
+🔗 [Demo](https://thaynabds.github.io/accessability-widget/demo/) · [npm](https://www.npmjs.com/package/@thaynabds/accessability-widget) · [GitHub](https://github.com/thaynabds/accessability-widget)
+
+---
+
 ### [🎓 Compet Superior 2026 — Agenda Saúde Digital Tacaratu](https://www.pe.senac.br/evento-no-senac-pe-apresenta-oportunidades-do-edital-compet-superior-2026-para-estudantes-e-pesquisadores/)
 > **Faculdade Senac de Pernambuco | Recife-PE Brasil | Out/2026 – Mar/2027**
 
@@ -310,7 +325,7 @@ Aplicativo mobile (Android e iOS) e PWA para clínicas parceiras, centrado no pa
 
 `branch main só com README` `servidor na branch poc-full-kotlin: Kotlin JVM 21 e Ktor, não Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Lei Brasileira de Inclusão` `NBR 17225` `Análise de Requisitos` `Documentação Técnica` `Prototipação no Figma`
 
-🔗 [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [App no ar](https://recifesaudavel.grupotp.polyclub.com.br) · GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -335,14 +350,14 @@ Sistema de cadastro para pet shop, feito em Java com arquitetura em camadas (Con
 
 ---
 
-### [🏫 Observatório de Projetos Integradores](https://grupotp.polyclub.com.br/)
+### [🏫 Observatório de Projetos Integradores](https://observatorio.grupotp.polyclub.com.br)
 > **Faculdade Senac de Pernambuco | Recife-PE Brasil | Jan–Junho 2026**
 
 Plataforma centralizada para gestão de projetos acadêmicos: submissão, prazos, feedbacks por rubricas e portfólio com selos de conquista.
 
 `Figma` `UX/UI` `Análise de Requisitos` `Product Design` `Design & Prototipação` `PHP` `HTML + Bootstrap` `MySQL`
 
-🔗 [Site/Deploy](https://grupotp.polyclub.com.br/) · [GitHub](https://github.com/GrupoTP/Sistema-de-Envio-e-Armazenamento-dos-Projetos-ADS) · [Figma](https://www.figma.com/make/XETVIneDIARTVrgXoidrN4/OBSERVAT%C3%93RIO-DE-PROJETOS-INTEGRADORES--SENAC-?fullscreen=1&t=vf5Kz8t2XzB1XtNc-1&code-node-id=0-10)
+🔗 [Site/Deploy](https://observatorio.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/Sistema-de-Envio-e-Armazenamento-dos-Projetos-ADS) · [Figma](https://www.figma.com/make/XETVIneDIARTVrgXoidrN4/OBSERVAT%C3%93RIO-DE-PROJETOS-INTEGRADORES--SENAC-?fullscreen=1&t=vf5Kz8t2XzB1XtNc-1&code-node-id=0-10)
 
 ---
 
@@ -448,17 +463,6 @@ Exercícios, desafios e projetos práticos do Bootcamp DIO Avanade Back-end com 
 
 ---
 
-### [🎮 Lab Natty or Not](https://github.com/thaynabds/lab-natty-or-not)
-> **DIO | Brasil | 2025**
-
-Projeto gamificado sobre identificação de textos gerados por IA, usando lógica de comparação.
-
-`IA Generativa` `JavaScript` `Lógica de Programação`
-
-🔗 [GitHub](https://github.com/thaynabds/lab-natty-or-not)
-
----
-
 ### [🎯 Calculadora de Partidas Rankeadas](https://github.com/thaynabds/CalculadoraDePartidasRankeadas)
 > **Recife-PE, Brasil | 2025**
 
@@ -490,7 +494,12 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 | Curso sobre AI-102 | DIO | Brasil | Mai/2026 |
 | ChatGPT for Devs | DIO | Brasil | Mai/2026 |
 | Bradesco GenAI & Dados | DIO | Brasil | Mai/2026 |
-| Formação Back-End Avanade Protagonize Tech (100h) | Impacta | Brasil | Mar/2026 |
+| Formação Back-End Avanade Protagonize Tech (100h) | Impacta | Brasil | Abr/2026 |
+| SQL - Criando e Manipulando Banco de Dados (30h) | Impacta | Brasil | Abr/2026 |
+| Programando com C# (20h) | Impacta | Brasil | Abr/2026 |
+| Desenvolvimento com Web ASP.NET (20h) | Impacta | Brasil | Abr/2026 |
+| N8N - Fundamentos (5h) | Impacta | Brasil | Abr/2026 |
+| Residência Tecnológica (Kick Off 2025.2 e Rise UP 2026.1) | Porto Digital | Recife-PE, Brasil | Ago/2025 – Jun/2026 |
 | Curso preparatório de Scrum Master na DIO | DIO | Brasil | Fev/2026 |
 | GitHub Certification | DIO | Brasil | Fev/2025 |
 | Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2025 |

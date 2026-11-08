@@ -27,6 +27,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-thaynabds-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaynabds)
 [![Instagram](https://img.shields.io/badge/Instagram-thaynabdstec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thaynabdstec/)
 [![Gmail](https://img.shields.io/badge/Gmail-thaynabdstec@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaynabdstec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thaynabds.github.io/cv-6C3483?style=for-the-badge&logo=githubpages&logoColor=white)](https://thaynabds.github.io/cv/)
+[![DIO](https://img.shields.io/badge/DIO-thaynabds-1A237E?style=for-the-badge&logoColor=white)](https://web.dio.me/users/thaynabds)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-0D47A1?style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/9706695368434002)
+[![Senac](https://img.shields.io/badge/E--mail-Senac-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:thayna.silva4815352@edu.pe.senac.br)
 
 <img src="https://komarev.com/ghpvc/?username=thaynabds&label=Profile%20Views&color=6C3483&style=flat-square" />
 
@@ -49,7 +53,7 @@ Python, Kotlin, JavaScript, PHP, and .NET stay in the projects below.
 ## 💼 Professional Experience
 
 ### 💼 Internship in Systems Analysis and Development
-> **Recife City Hall, Department of Education | Karla Patrícia Municipal School, Robotics and Programming Lab | Recife-PE, Brazil | Nov/2026 – Nov/2027, starting November 2026**
+> **Recife City Hall, Department of Education | Karla Patrícia Municipal School, Robotics and Programming Lab | Recife-PE, Brazil | Nov/2026 – Nov/2027, ongoing since 3 Nov 2026**
 
 Technical support in the robotics and programming lab, linked to the Executive Board of Technology in Education. Development and maintenance of websites and solutions, analysis of educational software and computational thinking apps, diagnostics of laptops, tablets, and educational tables, computer setup, and network improvement proposals. Application of programming logic, prototyping, testing, and debugging.
 
@@ -281,6 +285,17 @@ Account opening, deposit, withdrawal, and balance. Controller, service, reposito
 ---
 
 
+### [♿ AccessAbilityWidget — Universal Accessibility Widget](https://github.com/thaynabds/accessability-widget)
+> **Independent project | October 2026**
+
+Accessibility widget with 19 features, installable on any website with one line of code, compliant with WCAG 2.2 and the Brazilian Inclusion Law (13.146/2015). Published on npm and served by CDN. Front end with dark mode, high contrast, color-blindness filters, OpenDyslexic font, reading guide and text-to-speech. Back end with a Java REST API that stores each user's preferences.
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `BCrypt` `Spring Data JPA` `OpenAPI/Swagger` `JUnit 5` `Mockito` `JavaScript` `CSS3` `Web Speech API` `npm` `GitHub Actions` `GitHub Pages` `WCAG 2.2`
+
+🔗 [Demo](https://thaynabds.github.io/accessability-widget/demo/) · [npm](https://www.npmjs.com/package/@thaynabds/accessability-widget) · [GitHub](https://github.com/thaynabds/accessability-widget)
+
+---
+
 ### [🎓 Compet Superior 2026 — Agenda Saúde Digital Tacaratu](https://www.pe.senac.br/evento-no-senac-pe-apresenta-oportunidades-do-edital-compet-superior-2026-para-estudantes-e-pesquisadores/)
 > **Senac College of Pernambuco | Recife-PE Brazil | Oct/2026 – Mar/2027**
 
@@ -310,7 +325,7 @@ Mobile app (Android and iOS) and PWA for partner clinics, patient-centered. It o
 
 `main branch has only the README` `server on branch poc-full-kotlin: Kotlin JVM 21 and Ktor, not Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Technical Documentation` `Figma Prototyping`
 
-🔗 [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [Live app](https://recifesaudavel.grupotp.polyclub.com.br) · GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -335,14 +350,14 @@ Registration system for a pet shop, built in Java with a layered architecture (C
 
 ---
 
-### [🏫 Integrative Projects Observatory](https://grupotp.polyclub.com.br/)
+### [🏫 Integrative Projects Observatory](https://observatorio.grupotp.polyclub.com.br)
 > **Senac College of Pernambuco | Recife-PE Brazil | Jan–June 2026**
 
 Centralized platform for managing academic projects: submissions, deadlines, rubric-based feedback, and a portfolio with achievement badges.
 
 `Figma` `UX/UI` `Requirements Analysis` `Product Design` `Design & Prototyping` `PHP` `HTML + Bootstrap` `MySQL`
 
-🔗 [Live Site](https://grupotp.polyclub.com.br/) · [GitHub](https://github.com/GrupoTP/Sistema-de-Envio-e-Armazenamento-dos-Projetos-ADS) · [Figma](https://www.figma.com/make/XETVIneDIARTVrgXoidrN4/OBSERVAT%C3%93RIO-DE-PROJETOS-INTEGRADORES--SENAC-?fullscreen=1&t=vf5Kz8t2XzB1XtNc-1&code-node-id=0-10)
+🔗 [Live Site](https://observatorio.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/Sistema-de-Envio-e-Armazenamento-dos-Projetos-ADS) · [Figma](https://www.figma.com/make/XETVIneDIARTVrgXoidrN4/OBSERVAT%C3%93RIO-DE-PROJETOS-INTEGRADORES--SENAC-?fullscreen=1&t=vf5Kz8t2XzB1XtNc-1&code-node-id=0-10)
 
 ---
 
@@ -448,17 +463,6 @@ Exercises, challenges, and hands-on projects from the DIO Avanade .NET and AI Ba
 
 ---
 
-### [🎮 Lab Natty or Not](https://github.com/thaynabds/lab-natty-or-not)
-> **DIO | Brazil | 2025**
-
-Gamified project on identifying AI-generated text using comparison logic.
-
-`Generative AI` `JavaScript` `Programming Logic`
-
-🔗 [GitHub](https://github.com/thaynabds/lab-natty-or-not)
-
----
-
 ### [🎯 Ranked Match Calculator](https://github.com/thaynabds/CalculadoraDePartidasRankeadas)
 > **Recife-PE, Brazil | 2025**
 
@@ -490,7 +494,12 @@ Application with ranking logic in JavaScript for match classification.
 | Curso sobre AI-102 | DIO | Brazil | May/2026 |
 | ChatGPT for Devs | DIO | Brazil | May/2026 |
 | Bradesco GenAI & Data | DIO | Brazil | May/2026 |
-| Avanade Protagonize Tech Back-End Training (100h) | Impacta | Brazil | Mar/2026 |
+| Avanade Protagonize Tech Back-End Training (100h) | Impacta | Brazil | Apr/2026 |
+| SQL - Creating and Manipulating Databases (30h) | Impacta | Brazil | Apr/2026 |
+| Programming with C# (20h) | Impacta | Brazil | Apr/2026 |
+| Web Development with ASP.NET (20h) | Impacta | Brazil | Apr/2026 |
+| N8N - Fundamentals (5h) | Impacta | Brazil | Apr/2026 |
+| Tech Residency (Kick Off 2025.2 and Rise UP 2026.1) | Porto Digital | Recife-PE, Brazil | Aug/2025 – Jun/2026 |
 | Scrum Master preparatory course at DIO | DIO | Brazil | Feb/2026 |
 | GitHub Certification | DIO | Brazil | Feb/2025 |
 | AI Fundamentals | DIO | Brazil | Feb/2025 |
