@@ -325,7 +325,7 @@ Aplicativo mobile (Android e iOS) e PWA para clínicas parceiras, centrado no pa
 
 `branch main só com README` `servidor na branch poc-full-kotlin: Kotlin JVM 21 e Ktor, não Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Lei Brasileira de Inclusão` `NBR 17225` `Análise de Requisitos` `Documentação Técnica` `Prototipação no Figma`
 
-🔗 [App no ar](https://recifesaudavel.grupotp.polyclub.com.br) · GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [App no ar](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 

@@ -325,7 +325,7 @@ Mobile app (Android and iOS) and PWA for partner clinics, patient-centered. It o
 
 `main branch has only the README` `server on branch poc-full-kotlin: Kotlin JVM 21 and Ktor, not Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Technical Documentation` `Figma Prototyping`
 
-🔗 [Live app](https://recifesaudavel.grupotp.polyclub.com.br) · GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [Live app](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
