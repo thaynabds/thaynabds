@@ -231,11 +231,11 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 ## 🚀 Projetos em Destaque
 
 ### [🐉 JobDragonQuest — central de candidaturas](https://github.com/thaynabds/JobDragonQuest-publico)
-> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.5.1**
+> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.6.0**
 
 Plataforma para organizar a procura de emprego: vários perfis profissionais, coleta automática de vagas em ATS públicos (Greenhouse, Lever, SmartRecruiters, Ashby), nota de compatibilidade explicável, Kanban de candidaturas em 19 etapas com evidência, avisos, currículo e carta ajustados à vaga sem inventar dado do perfil, extensão do navegador e servidor MCP para usar com a própria IA. Painel em português, inglês e espanhol, com central de acessibilidade. Instala com um comando e roda no próprio computador.
 
-Engenharia: 309 testes automatizados, cobertura de 92,3% das linhas da API, teste ponta a ponta no navegador (Playwright), p95 de leitura de no máximo 103 ms, CI com OSV-Scanner, ESLint, Ruff e Checkstyle, Git Flow com Conventional Commits, ADRs e release notes automáticas.
+Engenharia: 350 testes automatizados, cobertura de 91,9% das linhas da API, teste ponta a ponta no navegador (Playwright), p95 de leitura de no máximo 103 ms, CI com OSV-Scanner, ESLint, Ruff e Checkstyle, Git Flow com Conventional Commits, ADRs e release notes automáticas.
 
 `Java 21` `Spring Boot 4.1` `Spring Security` `PostgreSQL` `Flyway` `React 19` `TypeScript` `Vite` `Node.js` `MCP` `Python` `Playwright` `GitHub Actions`
 
