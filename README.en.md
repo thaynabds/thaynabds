@@ -89,6 +89,22 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![Design Patterns GoF](https://img.shields.io/badge/Design_Patterns_GoF-4479A1?style=flat-square&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-4479A1?style=flat-square&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-4479A1?style=flat-square&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-6DB33F?style=flat-square)
+![Spring Boot Actuator](https://img.shields.io/badge/Spring_Boot_Actuator-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-6DB33F?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-6DB33F?style=flat-square)
+![BCrypt](https://img.shields.io/badge/BCrypt-6DB33F?style=flat-square)
+![Lombok](https://img.shields.io/badge/Lombok-6DB33F?style=flat-square&logo=lombok&logoColor=white)
+![Apache PDFBox](https://img.shields.io/badge/Apache_PDFBox-6DB33F?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-6DB33F?style=flat-square)
+![Ktor](https://img.shields.io/badge/Ktor-6DB33F?style=flat-square&logo=ktor&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=express&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square)
+![discord.py](https://img.shields.io/badge/discord.py-6DB33F?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-6DB33F?style=flat-square&logo=pytest&logoColor=white)
 
 **🖥️ Front-End**
 
@@ -101,6 +117,15 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-3178C6?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-3178C6?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-3178C6?style=flat-square&logo=testinglibrary&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-3178C6?style=flat-square&logo=reactrouter&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=flat-square&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3178C6?style=flat-square&logo=tailwindcss&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-3178C6?style=flat-square)
+![RxJS](https://img.shields.io/badge/RxJS-3178C6?style=flat-square)
+![Web Speech API](https://img.shields.io/badge/Web_Speech_API-3178C6?style=flat-square)
 
 **📱 Mobile**
 
@@ -113,6 +138,8 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo Go](https://img.shields.io/badge/Expo_Go-000020?style=flat-square&logo=expo&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-3DDC84?style=flat-square&logo=expo&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square)
 
 **🗄️ Databases**
 
@@ -122,6 +149,9 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![BRModelo](https://img.shields.io/badge/BRModelo-4479A1?style=flat-square&logoColor=white)
+![H2](https://img.shields.io/badge/H2-336791?style=flat-square)
+![Flyway](https://img.shields.io/badge/Flyway-336791?style=flat-square&logo=flyway&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-336791?style=flat-square)
 
 **🤖 AI & Cloud**
 
@@ -147,6 +177,13 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![n8n](https://img.shields.io/badge/n8n-EF6C00?style=flat-square&logo=n8n&logoColor=white)
 ![Low-code](https://img.shields.io/badge/Low--code-EF6C00?style=flat-square&logoColor=white)
 ![Typebot](https://img.shields.io/badge/Typebot-0042DA?style=flat-square&logoColor=white)
+![MCP (Model Context Protocol)](https://img.shields.io/badge/MCP_%28Model_Context_Protocol%29-412991?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-412991?style=flat-square&logo=spring&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-412991?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-412991?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-412991?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-412991?style=flat-square&logo=jupyter&logoColor=white)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-412991?style=flat-square)
 
 **🎨 Design & UX**
 
@@ -179,6 +216,20 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![Office Suite](https://img.shields.io/badge/Office_Suite-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-24292F?style=flat-square&logo=apachemaven&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292F?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-24292F?style=flat-square&logo=githubpages&logoColor=white)
+![Render](https://img.shields.io/badge/Render-24292F?style=flat-square&logo=render&logoColor=white)
+![npm](https://img.shields.io/badge/npm-24292F?style=flat-square&logo=npm&logoColor=white)
+![Flatpak](https://img.shields.io/badge/Flatpak-24292F?style=flat-square&logo=flatpak&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-24292F?style=flat-square&logo=playwright&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-24292F?style=flat-square)
+![ESLint](https://img.shields.io/badge/ESLint-24292F?style=flat-square&logo=eslint&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-24292F?style=flat-square&logo=ruff&logoColor=white)
+![Checkstyle](https://img.shields.io/badge/Checkstyle-24292F?style=flat-square)
+![OSV-Scanner](https://img.shields.io/badge/OSV--Scanner-24292F?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-24292F?style=flat-square&logo=prometheus&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-24292F?style=flat-square&logo=linux&logoColor=white)
 
 **♿ Accessibility**
 
@@ -194,6 +245,10 @@ Technical support in the robotics and programming lab, linked to the Executive B
 ![Process Automation](https://img.shields.io/badge/Process_Automation-EF6C00?style=flat-square&logoColor=white)
 ![Team Leadership](https://img.shields.io/badge/Team_Leadership-6DB33F?style=flat-square&logoColor=white)
 ![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-6DB33F?style=flat-square&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git_Flow-6DB33F?style=flat-square)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-6DB33F?style=flat-square&logo=conventionalcommits&logoColor=white)
+![SemVer](https://img.shields.io/badge/SemVer-6DB33F?style=flat-square)
+![ADRs](https://img.shields.io/badge/ADRs-6DB33F?style=flat-square)
 
 ---
 
@@ -216,6 +271,15 @@ Technical support in the robotics and programming lab, linked to the Executive B
 - High-fidelity interface prototyping with Figma
 - Structuring Full-Stack and Full Cycle projects
 - Product Design and Requirements Analysis
+- MCP (Model Context Protocol) servers that connect AI to applications, with security guards and user confirmation
+- Microservices with Spring Cloud Gateway, Resilience4j, and Kotlin
+- CI/CD with GitHub Actions, coverage with JaCoCo, end-to-end tests with Playwright, and dependency scanning with OSV-Scanner
+- Software distribution: Flatpak for Linux, Android APK, and npm package
+- Linux desktop apps with Python and PySide6
+- Database migrations with Flyway and authentication with JWT, OAuth2, and BCrypt
+- Data privacy and security (LGPD): AES-256-GCM encryption, masking, and secrets kept out of the code
+- Data analysis with Python, pandas, and Matplotlib
+- Git Flow, Conventional Commits, SemVer, and decision records (ADRs)
 
 ## 🤝 Soft Skills
 
@@ -225,17 +289,19 @@ Technical support in the robotics and programming lab, linked to the Executive B
 - Proactivity and time management
 - Agile methodologies — Scrum Master preparatory course at DIO
 - Team leadership and project management
+- Care for the security, privacy, and accessibility of the people who use what I deliver
+- Clear documentation, so someone else can install and run the project without help
 
 ---
 
 ## 🚀 Featured Projects
 
 ### [🐉 JobDragonQuest — job application hub](https://github.com/thaynabds/JobDragonQuest-publico)
-> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.6.0**
+> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.8.4**
 
 Platform to organize a job search: multiple professional profiles, automatic job collection from public ATS APIs (Greenhouse, Lever, SmartRecruiters, Ashby), explainable match score, a 19-stage application Kanban driven by evidence, notifications, résumé and cover letter tailored to each job without inventing profile data, a browser extension, and an MCP server to use it with your own AI. Dashboard in Portuguese, English and Spanish, with an accessibility center. One-command install, runs on your own computer.
 
-Engineering: 309 automated tests, 91.9% API line coverage, end-to-end browser test (Playwright), read p95 of at most 103 ms, CI with OSV-Scanner, ESLint, Ruff and Checkstyle, Git Flow with Conventional Commits, ADRs and automatic release notes.
+Engineering: 374 automated tests, 91.9% API line coverage, end-to-end browser test (Playwright), read p95 of at most 103 ms, CI with OSV-Scanner, ESLint, Ruff and Checkstyle, Git Flow with Conventional Commits, ADRs and automatic release notes.
 
 `Java 21` `Spring Boot 4.1` `Spring Security` `PostgreSQL` `Flyway` `React 19` `TypeScript` `Vite` `Node.js` `MCP` `Python` `Playwright` `GitHub Actions`
 
