@@ -569,7 +569,7 @@ Application with ranking logic in JavaScript for match classification.
 
 | Certification | Institution | Location | Date |
 |---|---|---|---|
-| Hacka Business \| Avanade Next Gen (confidential project) | Avanade Next Gen | Recife-PE, Brazil | 21/09/2026 – 14/11/2026 (in progress) |
+| Hacka Business \| Avanade Next Gen (confidential project: Kotlin, Spring Boot, microservices, React Native, Python, and LLM) | Avanade Next Gen | Recife-PE, Brazil | 21/09/2026 – 14/11/2026 (in progress) |
 | Curso sobre AI-102 | DIO | Brazil | May/2026 |
 | ChatGPT for Devs | DIO | Brazil | May/2026 |
 | Bradesco GenAI & Data | DIO | Brazil | May/2026 |

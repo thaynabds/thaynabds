@@ -569,7 +569,7 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 
 | Certificação | Instituição | Local | Data |
 |---|---|---|---|
-| Hacka Business \| Avanade Next Gen (projeto confidencial) | Avanade Next Gen | Recife-PE, Brasil | 21/09/2026 – 14/11/2026 (em andamento) |
+| Hacka Business \| Avanade Next Gen (projeto confidencial: Kotlin, Spring Boot, microsserviços, React Native, Python e LLM) | Avanade Next Gen | Recife-PE, Brasil | 21/09/2026 – 14/11/2026 (em andamento) |
 | Curso sobre AI-102 | DIO | Brasil | Mai/2026 |
 | ChatGPT for Devs | DIO | Brasil | Mai/2026 |
 | Bradesco GenAI & Dados | DIO | Brasil | Mai/2026 |
