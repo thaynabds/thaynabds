@@ -38,13 +38,19 @@
 
 ---
 
-## 🎯 Developer seeking an internship or junior role — Java · Recife, Brazil | Mon–Fri | 7am–6pm
+## 🎯 Java back-end developer · internship or junior role · Recife, Brazil
 
-I am Thayná Batista. I take night classes in **Systems Analysis and Development** at Faculdade Senac Pernambuco, Monday to Friday, 6:00 p.m. to 10:00 p.m., graduating in December 2027, and I am available during business hours. I am looking for a junior **Java** backend role, with Spring Boot, REST APIs, and a relational database. I also study at the **Java Full-Stack Academy** at Fuctura.
+I am Thayná Batista, a **Java** back-end developer. I build APIs with **Java 21, Spring Boot, Spring Security, and PostgreSQL**, with automated tests, CI on GitHub Actions, and documentation that lets anyone install and run the project. When a project calls for it, I also use **React, TypeScript, Python, and Kotlin**.
 
-My three main projects: [🐉 JobDragonQuest](https://github.com/thaynabds/JobDragonQuest-publico), a job application hub in Java 21, Spring Boot 4.1, and React 19, with 374 automated tests and an MCP server; [🦜 Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot), offline transcription (faster-whisper) and text-to-speech (Piper), shipped as a Linux Flatpak, an Android APK, and a Discord bot; and [♿ AccessAbilityWidget](https://github.com/thaynabds/accessability-widget), an accessibility widget with 30 features (WCAG 2.2 / Brazilian Inclusion Law) published on npm. I also maintain the [budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)) in Java 21 and Spring Boot, the [academic system](https://github.com/thaynabds/sistemaGerenciadorAcademico) with JDBC and PostgreSQL, and [javaFuctura](https://github.com/thaynabds/javaFuctura) with my Java exercises.
+**Projects that show my work:**
 
-Python, Kotlin, JavaScript, PHP, and .NET stay in the projects below.
+- [🐉 **JobDragonQuest**](https://github.com/thaynabds/JobDragonQuest-publico): a job application hub in Java 21, Spring Boot 4.1, and React 19, with 374 automated tests, at least 80% API coverage, and an MCP server for AI.
+- [🦜 **Congo Grey Parrot**](https://github.com/thaynabds/CongoGreyParrot): offline transcription (faster-whisper) and text-to-speech (Piper), shipped as a Linux Flatpak app, an Android APK, and a Discord bot.
+- [♿ **AccessAbilityWidget**](https://github.com/thaynabds/accessability-widget): an accessibility widget with 30 features (WCAG 2.2 / Brazilian Inclusion Law), published on npm and added with one line of code.
+
+🎓 Systems Analysis and Development, Faculdade Senac Pernambuco (night classes, graduating Dec 2027) · Java Full-Stack Academy, Fuctura
+💼 Intern at Recife City Hall, Robotics and Programming Lab
+🕐 Available Monday to Friday, 7 a.m. to 6 p.m.
 
 > 💡 *"Code is not just syntax — it's the bridge between ideas and impact."*
 

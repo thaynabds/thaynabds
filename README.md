@@ -38,13 +38,19 @@
 
 ---
 
-## 🎯 Desenvolvedora em busca de estágio ou vaga júnior — Java · Recife/PE | Seg–Sex | 7h–18h
+## 🎯 Desenvolvedora back-end Java · estágio ou vaga júnior · Recife/PE
 
-Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, de segunda a sexta, das 18h às 22h, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
+Sou Thayná Batista, desenvolvedora back-end **Java**. Construo APIs com **Java 21, Spring Boot, Spring Security e PostgreSQL**, com testes automatizados, CI no GitHub Actions e documentação que permite a qualquer pessoa instalar e rodar o projeto. Quando o projeto pede, também uso **React, TypeScript, Python e Kotlin**.
 
-Meus três projetos principais: o [🐉 JobDragonQuest](https://github.com/thaynabds/JobDragonQuest-publico), central de candidaturas em Java 21, Spring Boot 4.1 e React 19, com 374 testes automatizados e servidor MCP; o [🦜 Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot), transcrição (faster-whisper) e leitura em voz alta (Piper) sem internet, com app Linux em Flatpak, APK Android e bot de Discord; e o [♿ AccessAbilityWidget](https://github.com/thaynabds/accessability-widget), widget de acessibilidade com 30 recursos (WCAG 2.2 / LBI) publicado no npm. Também mantenho a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)) em Java 21 e Spring Boot, o [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) com JDBC e PostgreSQL e o [javaFuctura](https://github.com/thaynabds/javaFuctura) com os exercícios de Java.
+**Projetos que mostram o meu trabalho:**
 
-Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
+- [🐉 **JobDragonQuest**](https://github.com/thaynabds/JobDragonQuest-publico): central de candidaturas em Java 21, Spring Boot 4.1 e React 19, com 374 testes automatizados, cobertura mínima de 80% na API e servidor MCP para IA.
+- [🦜 **Congo Grey Parrot**](https://github.com/thaynabds/CongoGreyParrot): transcrição (faster-whisper) e leitura em voz alta (Piper) sem internet, publicado como app Linux em Flatpak, APK Android e bot de Discord.
+- [♿ **AccessAbilityWidget**](https://github.com/thaynabds/accessability-widget): widget de acessibilidade com 30 recursos (WCAG 2.2 / LBI), publicado no npm e usado com uma linha de código.
+
+🎓 Análise e Desenvolvimento de Sistemas, Faculdade Senac de Pernambuco (aulas à noite, conclusão em dez/2027) · Academia Java Full-Stack, Fuctura
+💼 Estagiária na Prefeitura do Recife, Laboratório de Robótica e Programação
+🕐 Disponível de segunda a sexta, das 7h às 18h
 
 > 💡 *"Code is not just syntax — it's the bridge between ideas and impact."*
 
