@@ -64,6 +64,16 @@ I am Thayná Batista, a **Java** back-end developer. I build APIs with **Java 21
 Technical support in the robotics and programming lab, linked to the Executive Board of Technology in Education. Development and maintenance of websites and solutions, analysis of educational software and computational thinking apps, diagnostics of laptops, tablets, and educational tables, computer setup, and network improvement proposals. Application of programming logic, prototyping, testing, and debugging.
 
 
+### 🏙️ Porto Digital Tech Residency Program
+> **Porto Digital | Recife-PE, Brazil | Aug 2025 – Dec 2026, in progress**
+
+Hands-on training program in squads, with challenges from partner companies and weekly mentoring.
+
+- **Grow Up 2026.2** (Aug–Dec 2026, in progress), Squad 19: Planner Comercial with Avanade. [Live MVP](https://avanade-frontend-xi.vercel.app/) with a Java 21, Spring Boot, PostgreSQL, and Flyway back end, a React 19 dashboard, and a Kotlin Android app. My part: design, high-fidelity Figma prototype, research, and requirements documentation.
+- **Rise Up 2026.1** (Mar–May 2026), Squad 43: Asas Abertas Flying Club platform with NTT DATA, [deployed on Vercel](https://asasabertas-aero-clube.vercel.app/). I was the team's Scrum Master and made the Figma prototypes and technical documentation.
+- **Kick Off 2025.2**, Squad 35: Manguecity web solution, theme “Technology and Innovation for Education”.
+
+
 ---
 
 ## 🛠️ Stack & Tools
@@ -395,25 +405,25 @@ Technology training and university outreach program in Science, Technology, Engi
 
 ---
 
-### [💰 Planner Comercial — Avanade (XP Investimentos) × Porto Digital](https://github.com/lucasandare490/Avanade)
-> **Grow UP 2026.1 | Avanade (XP Investimentos) | Aug–Dec 2026**
+### [💰 Planner Comercial — Avanade (XP Investimentos) × Porto Digital](https://avanade-frontend-xi.vercel.app/)
+> **Grow Up 2026.2 · Squad 19 | Porto Digital Tech Residency | Aug–Dec 2026**
 
-Academic solution for small merchants to track, on each Smart POS sale, the split between tax (IBS/CBS), fee, and net amount, with a searchable record and a plain-language explanation. Calculation relies on deterministic rules, and AI only interprets the result already calculated. At the 10/10/2026 delivery, the web dashboard and the Android app run in demo mode, with local tests (59 on web and 14 on Android). Backend, database, and deployment are the next step. No real financial transfer is made.
+MVP for small merchants to track, on each sale, the split between tax, fee, and net amount, with a searchable record and a plain-language explanation. Calculation relies on deterministic rules, and AI only explains the result already calculated. Records are stored on the server; payments and taxes are simulated, with no real money movement. My part: design, high-fidelity Figma prototype, research, and requirements documentation.
 
-`Delivered on 10 Oct 2026: Android (Jetpack, HTTP client, MockAIProvider), web dashboard, UX, prototype, and documentation` `Next step: Java, Spring Boot, Spring Security, PostgreSQL, Docker, OpenAPI/Swagger`
+`Figma` `UX/UI` `Research` `Requirements Documentation` `Team project: Java 21, Spring Boot, PostgreSQL, Flyway, React 19, TypeScript, Kotlin (Android)`
 
-🔗 [GitHub](https://github.com/lucasandare490/Avanade) · [Figma](https://www.figma.com/make/tJXFL2o4nYoZnZARUCkBLQ/Planner-Comercial-MVP-Design?fullscreen=1&t=eHnrGK6MEaRFtph4-1&code-node-id=0-6)
+🔗 [Live MVP](https://avanade-frontend-xi.vercel.app/) · [GitHub](https://github.com/lucasandare490/Avanade) · [Figma](https://www.figma.com/make/tJXFL2o4nYoZnZARUCkBLQ/Planner-Comercial-MVP-Design?fullscreen=1&t=eHnrGK6MEaRFtph4-1&code-node-id=0-6)
 
 ---
 
-### [🏫 MedCall (formerly Recife Saudável App)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin)
-> **Senac College of Pernambuco | Recife-PE Brazil | August–December 2026**
+### [🏫 MedCall (formerly Recife Saudável App)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2)
+> **Integrative Project, Senac College of Pernambuco | Recife-PE Brazil | Aug–Dec 2026**
 
-Mobile app (Android and iOS) and PWA for partner clinics, patient-centered. It organizes patient intake before the appointment: informational pre-screening in four steps and scheduling in three, reusing already registered data. Slots are confirmed on the server to prevent double booking of the same time. The interface uses plain language, high contrast, and few clicks, with attention to older adults. The system does not diagnose, prescribe, or define clinical conduct. On 17 Oct 2026 the main branch has only the README. The server on branch poc-full-kotlin is Kotlin JVM 21 with Ktor, not Spring Boot.
+Patient-centered mobile app and PWA for partner clinics. It organizes patient intake before the appointment: informational pre-screening in four steps and scheduling in three, reusing already registered data. Slots are confirmed on the server to prevent double booking. The interface uses plain language, high contrast, and few clicks, with attention to older adults. The system does not diagnose or prescribe.
 
-`main branch has only the README` `server on branch poc-full-kotlin: Kotlin JVM 21 and Ktor, not Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Technical Documentation` `Figma Prototyping`
+`Kotlin JVM 21` `Ktor` `JWT` `React Native` `TypeScript` `PWA` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Brazilian Inclusion Law` `NBR 17225` `Requirements Analysis` `Scrum Master` `Technical Documentation`
 
-🔗 [Live app](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [App live](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -589,7 +599,7 @@ Application with ranking logic in JavaScript for match classification.
 | Programming with C# (20h) | Impacta | Brazil | Apr/2026 |
 | Web Development with ASP.NET (20h) | Impacta | Brazil | Apr/2026 |
 | N8N - Fundamentals (5h) | Impacta | Brazil | Apr/2026 |
-| Tech Residency (Kick Off 2025.2 and Rise UP 2026.1) | Porto Digital | Recife-PE, Brazil | Aug/2025 – Jun/2026 |
+| Tech Residency (Kick Off 2025.2, Rise Up 2026.1, and Grow Up 2026.2) | Porto Digital | Recife-PE, Brazil | Aug/2025 – Dec/2026, in progress |
 | Scrum Master preparatory course at DIO | DIO | Brazil | Feb/2026 |
 | GitHub Certification | DIO | Brazil | Feb/2026 |
 | AI Fundamentals | DIO | Brazil | Feb/2026 |

@@ -64,6 +64,16 @@ Sou Thayná Batista, desenvolvedora back-end **Java**. Construo APIs com **Java 
 Apoio técnico no laboratório de robótica e programação, vinculado à Diretoria Executiva de Tecnologia na Educação. Desenvolvimento e manutenção de sites e soluções, análise de softwares educacionais e aplicativos de pensamento computacional, diagnóstico de notebooks, tablets e mesas educacionais, configuração de computadores e propostas de melhoria da rede. Aplicação de lógica de programação, prototipação, testes e depuração de código.
 
 
+### 🏙️ Residência Tecnológica do Porto Digital
+> **Porto Digital | Recife-PE, Brasil | Ago/2025 – Dez/2026, em andamento**
+
+Programa de formação prática em squads, com desafios de empresas parceiras e mentorias semanais.
+
+- **Grow Up 2026.2** (Ago–Dez/2026, em andamento), Squad 19: Planner Comercial com a Avanade. [MVP no ar](https://avanade-frontend-xi.vercel.app/) com backend Java 21, Spring Boot, PostgreSQL e Flyway, painel React 19 e app Android em Kotlin. Minha parte: design, protótipo de alta fidelidade no Figma, pesquisa e documentação de requisitos.
+- **Rise Up 2026.1** (Mar–Mai/2026), Squad 43: plataforma do Aeroclube Asas Abertas com a NTT DATA, [publicada no Vercel](https://asasabertas-aero-clube.vercel.app/). Fui Scrum Master do time e fiz os protótipos no Figma e a documentação técnica.
+- **Kick Off 2025.2**, Squad 35: Solução Web Manguecity, tema “Tecnologia e Inovação a serviço da Educação”.
+
+
 ---
 
 ## 🛠️ Stack & Ferramentas
@@ -395,25 +405,25 @@ Programa de formação tecnológica e extensão universitária em Ciência, Tecn
 
 ---
 
-### [💰 Planner Comercial — Avanade (XP Investimentos) × Porto Digital](https://github.com/lucasandare490/Avanade)
-> **Grow UP 2026.1 | Avanade (XP Investimentos) | Ago–Dez 2026**
+### [💰 Planner Comercial — Avanade (XP Investimentos) × Porto Digital](https://avanade-frontend-xi.vercel.app/)
+> **Grow Up 2026.2 · Squad 19 | Residência Tecnológica do Porto Digital | Ago–Dez 2026**
 
-Solução acadêmica para o pequeno comerciante acompanhar, em cada venda no Smart POS, a separação entre tributo (IBS/CBS), taxa e valor líquido, com registro consultável e explicação em linguagem simples. O cálculo usa regras determinísticas e a IA apenas interpreta o resultado já calculado. Na entrega de 10/10/2026, o dashboard web e o app Android funcionam em modo demonstrativo, com testes locais (59 no web e 14 no Android). Backend, banco e publicação são a próxima etapa. Nenhuma transferência financeira real é feita.
+MVP para o pequeno comerciante acompanhar, em cada venda, a separação entre tributo, taxa e valor líquido, com registro consultável e explicação em linguagem simples. O cálculo usa regras determinísticas e a IA só explica o resultado já calculado. Os registros ficam no servidor; pagamentos e tributos são simulados, sem movimentação real. Minha parte: design, protótipo de alta fidelidade no Figma, pesquisa e documentação de requisitos.
 
-`Entregue em 10/10/2026: Android (Jetpack, Cliente HTTP, MockAIProvider), dashboard web, UX, protótipo e documentação` `Próxima etapa: Java, Spring Boot, Spring Security, PostgreSQL, Docker, OpenAPI/Swagger`
+`Figma` `UX/UI` `Pesquisa` `Documentação de Requisitos` `Projeto do time: Java 21, Spring Boot, PostgreSQL, Flyway, React 19, TypeScript, Kotlin (Android)`
 
-🔗 [GitHub](https://github.com/lucasandare490/Avanade) · [Figma](https://www.figma.com/make/tJXFL2o4nYoZnZARUCkBLQ/Planner-Comercial-MVP-Design?fullscreen=1&t=eHnrGK6MEaRFtph4-1&code-node-id=0-6)
+🔗 [MVP no ar](https://avanade-frontend-xi.vercel.app/) · [GitHub](https://github.com/lucasandare490/Avanade) · [Figma](https://www.figma.com/make/tJXFL2o4nYoZnZARUCkBLQ/Planner-Comercial-MVP-Design?fullscreen=1&t=eHnrGK6MEaRFtph4-1&code-node-id=0-6)
 
 ---
 
-### [🏫 MedCall (antigo App Recife Saudável)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin)
-> **Faculdade Senac de Pernambuco | Recife-PE Brasil | Agosto–Dezembro 2026**
+### [🏫 MedCall (antigo App Recife Saudável)](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2)
+> **Projeto Integrador, Faculdade Senac de Pernambuco | Recife-PE Brasil | Agosto–Dezembro 2026**
 
-Aplicativo mobile (Android e iOS) e PWA para clínicas parceiras, centrado no paciente. Organiza o acolhimento antes da consulta: pré-triagem informativa em quatro etapas e agendamento em três, reaproveitando os dados já cadastrados. A vaga é confirmada no servidor, evitando o agendamento duplicado do mesmo horário. A interface usa linguagem simples, alto contraste e poucos cliques, com atenção a pessoas idosas. O sistema não diagnostica, não prescreve e não define conduta clínica. A branch main, em 17/10/2026, só tem README. O servidor na branch poc-full-kotlin é Kotlin JVM 21 com Ktor, não Spring Boot.
+Aplicativo mobile e PWA para clínicas parceiras, centrado no paciente. Organiza o acolhimento antes da consulta: pré-triagem informativa em quatro etapas e agendamento em três, reaproveitando os dados já cadastrados. A vaga é confirmada no servidor, evitando o agendamento duplicado do mesmo horário. A interface usa linguagem simples, alto contraste e poucos cliques, com atenção a pessoas idosas. O sistema não diagnostica nem prescreve.
 
-`branch main só com README` `servidor na branch poc-full-kotlin: Kotlin JVM 21 e Ktor, não Spring Boot` `JUnit` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Lei Brasileira de Inclusão` `NBR 17225` `Análise de Requisitos` `Documentação Técnica` `Prototipação no Figma`
+`Kotlin JVM 21` `Ktor` `JWT` `React Native` `TypeScript` `PWA` `Figma` `FigJam` `YouTrack` `WCAG 2.2` `Lei Brasileira de Inclusão` `NBR 17225` `Análise de Requisitos` `Scrum Master` `Documentação Técnica`
 
-🔗 [App no ar](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2/tree/poc-full-kotlin) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
+🔗 [App no ar](https://recifesaudavel.grupotp.polyclub.com.br) · [GitHub](https://github.com/GrupoTP/App-Recife-Saudavel-Senac-PE-2026.2) · [Figma](https://www.figma.com/make/HgsxSju4V0c9LixmfcUxm7/App-Recife-Saud%C3%A1vel-Development?fullscreen=1&t=qW8P0oS0T6RXnKZX-1&code-node-id=0-6)
 
 ---
 
@@ -589,7 +599,7 @@ Aplicativo com lógica de ranqueamento em JavaScript para classificação de par
 | Programando com C# (20h) | Impacta | Brasil | Abr/2026 |
 | Desenvolvimento com Web ASP.NET (20h) | Impacta | Brasil | Abr/2026 |
 | N8N - Fundamentos (5h) | Impacta | Brasil | Abr/2026 |
-| Residência Tecnológica (Kick Off 2025.2 e Rise UP 2026.1) | Porto Digital | Recife-PE, Brasil | Ago/2025 – Jun/2026 |
+| Residência Tecnológica (Kick Off 2025.2, Rise Up 2026.1 e Grow Up 2026.2) | Porto Digital | Recife-PE, Brasil | Ago/2025 – Dez/2026, em andamento |
 | Curso preparatório de Scrum Master na DIO | DIO | Brasil | Fev/2026 |
 | GitHub Certification | DIO | Brasil | Fev/2026 |
 | Fundamentos de Inteligência Artificial | DIO | Brasil | Fev/2026 |
