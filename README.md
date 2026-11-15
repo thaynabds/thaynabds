@@ -330,6 +330,9 @@ Widget de acessibilidade com 19 recursos, instalável em qualquer site com uma l
 
 ---
 
+<details>
+<summary><strong>Outros projetos</strong></summary>
+
 ### [☕ API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 > **Java 21 | Spring Boot 4.1.1 | JPA | Out/2026**
 
@@ -461,6 +464,8 @@ Aplicação Full-Stack com CRUD de tarefas, filtro por status, API REST (ASP.NET
 🔗 [GitHub](https://github.com/thaynabds/DESAFIO-TECNICO-PROTAGONIZE-TECH)
 
 ---
+
+</details>
 
 <details>
 <summary><strong>Protótipos, bootcamps curtos e exercícios</strong></summary>

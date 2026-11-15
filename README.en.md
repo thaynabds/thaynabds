@@ -330,6 +330,9 @@ Accessibility widget with 19 features, installable on any website with one line 
 
 ---
 
+<details>
+<summary><strong>Other projects</strong></summary>
+
 ### [☕ Budget API](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 > **Java 21 | Spring Boot 4.1.1 | JPA | Oct/2026**
 
@@ -461,6 +464,8 @@ Full-Stack application with task CRUD, status filtering, a REST API (ASP.NET Cor
 🔗 [GitHub](https://github.com/thaynabds/DESAFIO-TECNICO-PROTAGONIZE-TECH)
 
 ---
+
+</details>
 
 <details>
 <summary><strong>Prototypes, short bootcamps, and exercises</strong></summary>
