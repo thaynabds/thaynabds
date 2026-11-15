@@ -38,11 +38,11 @@
 
 ---
 
-## 🎯 Vaga júnior Java — Recife/PE | Seg–Sex | 7h–18h
+## 🎯 Desenvolvedora em busca de estágio ou vaga júnior — Java · Recife/PE | Seg–Sex | 7h–18h
 
 Sou Thayná Batista. Curso noturno de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac de Pernambuco, de segunda a sexta, das 18h às 22h, formatura em dez/2027, e disponível em horário comercial. A busca é por vaga júnior de backend **Java**, com Spring Boot, API REST e banco relacional. Também curso a **Academia Java Full-Stack** na Fuctura.
 
-O código que abre primeiro é a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)): Java 21, sobe sem chave, e o `POST /api/transactions` grava a despesa. O [javaFuctura](https://github.com/thaynabds/javaFuctura) guarda os exercícios de Java. O [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) ([API](https://sistemagerenciadoracademico.onrender.com)) cadastra aluno, professor, disciplina e matrícula com JDBC e PostgreSQL. O projeto de que mais gosto é o [Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot). Eu precisava, no dia a dia, de um programa que transcrevesse, lesse em voz alta e guardasse áudio e texto na própria máquina.
+Meus três projetos principais: o [🐉 JobDragonQuest](https://github.com/thaynabds/JobDragonQuest-publico), central de candidaturas em Java 21, Spring Boot 4.1 e React 19, com 374 testes automatizados e servidor MCP; o [🦜 Congo Grey Parrot](https://github.com/thaynabds/CongoGreyParrot), transcrição (faster-whisper) e leitura em voz alta (Piper) sem internet, com app Linux em Flatpak, APK Android e bot de Discord; e o [♿ AccessAbilityWidget](https://github.com/thaynabds/accessability-widget), widget de acessibilidade com 30 recursos (WCAG 2.2 / LBI) publicado no npm. Também mantenho a [API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot) ([site](https://api-inteligente-com-reconhecimento-de.onrender.com)) em Java 21 e Spring Boot, o [sistema acadêmico](https://github.com/thaynabds/sistemaGerenciadorAcademico) com JDBC e PostgreSQL e o [javaFuctura](https://github.com/thaynabds/javaFuctura) com os exercícios de Java.
 
 Python, Kotlin, JavaScript, PHP e .NET continuam nos projetos abaixo.
 
@@ -297,7 +297,7 @@ Apoio técnico no laboratório de robótica e programação, vinculado à Direto
 ## 🚀 Projetos em Destaque
 
 ### [🐉 JobDragonQuest — central de candidaturas](https://github.com/thaynabds/JobDragonQuest-publico)
-> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.8.4**
+> **Java 21 | Spring Boot 4.1 | React 19 | PostgreSQL | Nov/2026 | v0.9.0**
 
 Plataforma para organizar a procura de emprego: vários perfis profissionais, coleta automática de vagas em ATS públicos (Greenhouse, Lever, SmartRecruiters, Ashby), nota de compatibilidade explicável, Kanban de candidaturas em 19 etapas com evidência, avisos, currículo e carta ajustados à vaga sem inventar dado do perfil, extensão do navegador e servidor MCP para usar com a própria IA. Painel em português, inglês e espanhol, com central de acessibilidade. Instala com um comando e roda no próprio computador.
 
@@ -309,6 +309,27 @@ Engenharia: 374 testes automatizados, cobertura de 91,9% das linhas da API, test
 
 ---
 
+### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
+
+Quatro programas no mesmo repositório, cada um separado, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste 0.3.0, de 12/11/2026 (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular. Ele nomeia quem falou na chamada e pode enviar a rolagem pública para o link de uma mesa, sem entrar na conta dela. As anotações de reunião também são outro programa: leem a transcrição baixada do Teams, do Meet ou de outro nome, e não entram na reunião. Os quatro programas têm uma área **AI Conector**: por ela, uma IA (Claude, Cursor ou outro cliente MCP) usa as funções do programa só dentro da própria máquina, sem abrir porta de rede, e pede confirmação antes de apagar ou publicar. O programa de computador sai como Flatpak, na versão 0.4.0.
+
+`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py` `MCP`
+
+🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot) · [Site](https://thaynabds.github.io/CongoGreyParrot/) · [Versão 0.4.0 (Flatpak e APK)](https://github.com/thaynabds/CongoGreyParrot/releases/tag/desktop-v0.4.0)
+
+---
+
+### [♿ AccessAbilityWidget — Widget de Acessibilidade Universal](https://github.com/thaynabds/accessability-widget)
+> **Projeto independente | Outubro 2026**
+
+Widget de acessibilidade com 19 recursos, instalável em qualquer site com uma linha de código, em conformidade com a WCAG 2.2 e a LBI (Lei 13.146/2015). Publicado no npm e servido por CDN. Front-end com modo escuro, alto contraste, filtros de daltonismo, fonte OpenDyslexic, guia de leitura e leitura em voz alta. Back-end com API REST em Java para salvar as preferências de cada usuário.
+
+`Java 21` `Spring Boot 3` `Spring Security` `JWT` `BCrypt` `Spring Data JPA` `OpenAPI/Swagger` `JUnit 5` `Mockito` `JavaScript` `CSS3` `Web Speech API` `npm` `GitHub Actions` `GitHub Pages` `WCAG 2.2`
+
+🔗 [Demo](https://thaynabds.github.io/accessability-widget/demo/) · [npm](https://www.npmjs.com/package/@thaynabds/accessability-widget) · [GitHub](https://github.com/thaynabds/accessability-widget)
+
+---
+
 ### [☕ API de orçamento](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
 > **Java 21 | Spring Boot 4.1.1 | JPA | Out/2026**
 
@@ -317,16 +338,6 @@ API REST de transações financeiras. O CRUD sobe sem chave de IA, com `./gradle
 `Java 21` `Spring Boot 4.1.1` `Spring Data JPA` `H2` `MySQL` `JUnit` `Docker` `Gradle`
 
 🔗 [Site](https://api-inteligente-com-reconhecimento-de.onrender.com) · [GitHub](https://github.com/thaynabds/API-Inteligente-com-Reconhecimento-de-Fala-e-Spring-Boot)
-
----
-
-### [🦜 Project Congo Grey Parrot (Psittacus erithacus)](https://github.com/thaynabds/CongoGreyParrot)
-
-Quatro programas no mesmo repositório, cada um separado, sem conta e sem servidor próprio. Foi feito para uma necessidade do dia a dia: transcrever áudio, ler texto em voz alta e guardar áudio e texto na própria máquina. No computador (Linux), transcreve áudio, traduz fala para inglês, traduz texto com outro motor, lê em voz alta, edita legendas, converte mídia e grava documentos. A rede só entra para baixar modelo ou voz, com confirmação. No Android, o APK de teste 0.3.0, de 12/11/2026 (Android 8 ou mais novo) grava áudio offline em M4A, lê com uma voz instalada no aparelho, salva essa leitura em WAV e o texto, e compartilha arquivos. Não usa Whisper. Os dois têm sete temas, incluindo alto contraste, e filtros de inversão, inversão inteligente, protanopia, deuteranopia, tritanopia e monocromia. O bot de Discord faz parte deste projeto, mas é um programa separado: não abre com o computador nem com o celular. Ele nomeia quem falou na chamada e pode enviar a rolagem pública para o link de uma mesa, sem entrar na conta dela. As anotações de reunião também são outro programa: leem a transcrição baixada do Teams, do Meet ou de outro nome, e não entram na reunião. Os quatro programas têm uma área **AI Conector**: por ela, uma IA (Claude, Cursor ou outro cliente MCP) usa as funções do programa só dentro da própria máquina, sem abrir porta de rede, e pede confirmação antes de apagar ou publicar. O programa de computador sai como Flatpak, na versão 0.4.0.
-
-`Kotlin` `JVM 17` `Jetpack Compose` `Material 3` `Android SDK 35 (mín. Android 8, API 26)` `Gradle` `MediaRecorder` `TextToSpeech` `Python 3.11+` `PySide6` `NumPy` `SQLite` `faster-whisper` `Piper` `espeak-ng` `FFmpeg` `python-docx` `fpdf2` `pypdf` `discord.py` `MCP`
-
-🔗 [GitHub](https://github.com/thaynabds/CongoGreyParrot) · [Site](https://thaynabds.github.io/CongoGreyParrot/) · [Versão 0.4.0 (Flatpak e APK)](https://github.com/thaynabds/CongoGreyParrot/releases/tag/desktop-v0.4.0)
 
 ---
 
@@ -363,17 +374,6 @@ Abertura de conta, depósito, saque e saldo. Camadas controller, service, reposi
 
 ---
 
-
-### [♿ AccessAbilityWidget — Widget de Acessibilidade Universal](https://github.com/thaynabds/accessability-widget)
-> **Projeto independente | Outubro 2026**
-
-Widget de acessibilidade com 19 recursos, instalável em qualquer site com uma linha de código, em conformidade com a WCAG 2.2 e a LBI (Lei 13.146/2015). Publicado no npm e servido por CDN. Front-end com modo escuro, alto contraste, filtros de daltonismo, fonte OpenDyslexic, guia de leitura e leitura em voz alta. Back-end com API REST em Java para salvar as preferências de cada usuário.
-
-`Java 21` `Spring Boot 3` `Spring Security` `JWT` `BCrypt` `Spring Data JPA` `OpenAPI/Swagger` `JUnit 5` `Mockito` `JavaScript` `CSS3` `Web Speech API` `npm` `GitHub Actions` `GitHub Pages` `WCAG 2.2`
-
-🔗 [Demo](https://thaynabds.github.io/accessability-widget/demo/) · [npm](https://www.npmjs.com/package/@thaynabds/accessability-widget) · [GitHub](https://github.com/thaynabds/accessability-widget)
-
----
 
 ### [🎓 Compet Superior 2026 — Agenda Saúde Digital Tacaratu](https://www.pe.senac.br/evento-no-senac-pe-apresenta-oportunidades-do-edital-compet-superior-2026-para-estudantes-e-pesquisadores/)
 > **Faculdade Senac de Pernambuco | Recife-PE Brasil | Out/2026 – Mar/2027**
