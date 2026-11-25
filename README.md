@@ -397,7 +397,7 @@ Abertura de conta, depósito, saque e saldo. Camadas controller, service, reposi
 ### [🎓 Compet Superior 2026 — Agenda Saúde Digital Tacaratu](https://www.pe.senac.br/evento-no-senac-pe-apresenta-oportunidades-do-edital-compet-superior-2026-para-estudantes-e-pesquisadores/)
 > **Faculdade Senac de Pernambuco | Recife-PE Brasil | Out/2026 – Mar/2027**
 
-Programa de formação tecnológica e extensão universitária em Ciência, Tecnologia, Engenharia e Matemática, com 64h de capacitação. Desenvolvimento da Agenda Saúde Digital Tacaratu, plataforma que amplia o acesso da população de Tacaratu (PE) a informações, campanhas, agendas e serviços de saúde.
+Programa de formação tecnológica e extensão universitária em Ciência, Tecnologia, Engenharia e Matemática, com 64h de capacitação. Desenvolvimento da Agenda Saúde Digital Tacaratu, plataforma que amplia o acesso da população de Tacaratu (PE) a informações, campanhas, agendas e serviços de saúde. Selecionada como bolsista FACEPE (Bolsa de Fomento à Inovação, BFI-10) para a etapa de extensão tecnológica do projeto.
 
 `IA Aplicada a Soluções Digitais` `Ciência de Dados` `Dashboards` `Desenvolvimento Web Full Stack` `MVP`
 
